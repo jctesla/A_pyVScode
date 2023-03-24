@@ -1,0 +1,230 @@
+Jan 13 02:00:27 raspi pulseaudio[1177]: E: [pulseaudio] backend-ofono.c: Failed to register as a handsfree audio agent with ofono: org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Jan 13 02:01:24 raspi colord[1356]: failed to get session [pid 1015]: No data available
+Jan 13 02:04:05 raspi kernel: [  309.052197] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 02:04:05 raspi systemd-udevd[1494]: Process '/usr/sbin/alsactl -E HOME=/run/alsa restore 2' failed with exit code 99.
+Jan 13 02:04:06 raspi systemd-udevd[1482]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 02:04:12 raspi kernel: [  315.715037] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 02:04:12 raspi systemd-udevd[1519]: Process '/usr/sbin/alsactl -E HOME=/run/alsa restore 2' failed with exit code 99.
+Jan 13 02:04:12 raspi systemd-udevd[1520]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 02:23:04 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:04 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:05 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:05 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:06 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:06 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:07 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:07 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:08 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:08 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:09 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 02:23:09 raspi gvfsd[1105]: mkdir failed on directory /var/cache/samba: Permission denied
+Jan 13 03:32:47 raspi bluetoothd[13703]: Sap driver initialization failed.
+Jan 13 03:32:47 raspi bluetoothd[13703]: Failed to set privacy: Rejected (0x0b)
+Jan 13 03:32:47 raspi pulseaudio[1177]: E: [pulseaudio] backend-ofono.c: Failed to register as a handsfree audio agent with ofono: org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Jan 13 03:33:00 raspi colord[1356]: failed to get session [pid 14025]: No data available
+Jan 13 05:31:13 raspi colord[1356]: failed to get session [pid 14025]: No data available
+Jan 13 05:33:01 raspi systemd-udevd[23298]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 05:33:01 raspi systemd-udevd[23294]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 05:36:14 raspi systemd-udevd[196]: Process '/usr/sbin/alsactl -E HOME=/run/alsa restore 1' failed with exit code 17.
+Jan 13 05:36:14 raspi systemd-udevd[193]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 05:36:14 raspi systemd-udevd[169]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 05:36:14 raspi systemd-udevd[181]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 05:36:14 raspi kernel: [    5.729446] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 05:36:14 raspi udisksd[404]: failed to load module crypto: libbd_crypto.so.2: cannot open shared object file: No such file or directory
+Jan 13 05:36:14 raspi udisksd[404]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Jan 13 05:36:14 raspi udisksd[404]: Failed to load the 'mdraid' libblockdev plugin
+Jan 13 05:36:14 raspi udisksd[404]: Failed to load the 'crypto' libblockdev plugin
+Jan 13 05:36:14 raspi dnsmasq[504]: FAILED to start up
+Jan 13 05:36:14 raspi systemd[1]: dnsmasq.service: Failed with result 'exit-code'.
+Jan 13 05:36:14 raspi systemd[1]: Failed to start dnsmasq - A lightweight DHCP and caching DNS server.
+Jan 13 05:36:26 raspi bluetoothd[832]: Sap driver initialization failed.
+Jan 13 05:36:26 raspi bluetoothd[832]: Failed to set privacy: Rejected (0x0b)
+Jan 13 05:36:38 raspi pulseaudio[809]: E: [pulseaudio] backend-ofono.c: Failed to register as a handsfree audio agent with ofono: org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Jan 13 10:18:50 raspi systemd-udevd[1809]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 11:00:40 raspi colord[4002]: failed to get session [pid 436]: No data available
+Jan 13 13:04:48 raspi colord[4002]: failed to get session [pid 436]: No data available
+Jan 13 13:05:53 raspi kernel: [10906.660299] uvcvideo: Failed to query (GET_DEF) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 15:14:44 raspi colord[4002]: failed to get session [pid 436]: No data available
+Jan 13 17:58:19 raspi colord[4002]: failed to get session [pid 436]: No data available
+Jan 13 19:06:42 raspi systemd[681]: pulseaudio.service: Failed with result 'exit-code'.
+Jan 13 19:06:43 raspi pulseaudio[29225]: E: [pulseaudio] backend-ofono.c: Failed to register as a handsfree audio agent with ofono: org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Jan 13 18:17:25 raspi kernel: [   14.302561] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 18:17:25 raspi kernel: <1052>[   14.425055] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 18:17:25 raspi kernel: <1052>[   16.484943] systemd-udevd[284]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 18:17:25 raspi kernel: <1052>[   16.486597] systemd-udevd[280]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 18:17:25 raspi kernel: <1052>[   16.574968] systemd-udevd[310]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 18:17:30 raspi dbus-daemon[1629]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 18:17:31 raspi dnsmasq[1792]: FAILED to start up
+Jan 13 18:17:40 raspi saned[2381]: do_bindings: [0] bind failed: Address already in use
+Jan 13 20:42:43 raspi kernel: [    4.452927] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 20:42:43 raspi kernel: <1052>[    4.735409] systemd-udevd[323]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:42:43 raspi kernel: <1052>[    5.105020] systemd-udevd[286]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:42:43 raspi kernel: <1052>[    5.134729] systemd-udevd[273]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:42:43 raspi kernel: <1052>[    5.154727] systemd-udevd[323]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:42:43 raspi dbus-daemon[1592]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 20:42:44 raspi dnsmasq[1715]: FAILED to start up
+Jan 13 20:42:46 raspi saned[2294]: do_bindings: [0] bind failed: Address already in use
+Jan 13 20:46:35 raspi kernel: [    4.606860] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 20:46:35 raspi kernel: <1052>[    5.054875] systemd-udevd[282]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:46:35 raspi kernel: <1052>[    5.165454] systemd-udevd[338]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:46:35 raspi kernel: <1052>[    5.255042] systemd-udevd[272]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:46:35 raspi kernel: <1052>[    5.364791] systemd-udevd[298]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:46:35 raspi dbus-daemon[1595]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 20:46:36 raspi dnsmasq[1715]: FAILED to start up
+Jan 13 20:46:39 raspi saned[2298]: do_bindings: [0] bind failed: Address already in use
+Jan 13 20:52:40 raspi kernel: [    3.291111] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 20:52:40 raspi kernel: <1052>[    3.935751] systemd-udevd[267]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:52:40 raspi kernel: <1052>[    5.055110] systemd-udevd[309]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:52:40 raspi kernel: <1052>[    5.111200] systemd-udevd[285]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:52:40 raspi kernel: <1052>[    5.175035] systemd-udevd[315]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:52:40 raspi kernel: <1052>[    5.324818] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 20:52:40 raspi dbus-daemon[1605]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 20:52:41 raspi dnsmasq[1726]: FAILED to start up
+Jan 13 20:52:43 raspi saned[2305]: do_bindings: [0] bind failed: Address already in use
+Jan 13 21:02:19 raspi kernel: [    3.266488] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 21:02:19 raspi kernel: <1052>[    4.128389] systemd-udevd[246]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:02:19 raspi kernel: <1052>[    4.953813] systemd-udevd[274]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:02:19 raspi kernel: <1052>[    5.084951] systemd-udevd[265]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:02:19 raspi kernel: <1052>[    5.084991] systemd-udevd[246]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:02:19 raspi kernel: <1052>[    5.204725] systemd-udevd[300]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:02:20 raspi dbus-daemon[1603]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 21:02:20 raspi dnsmasq[1726]: FAILED to start up
+Jan 13 21:02:24 raspi saned[2308]: do_bindings: [0] bind failed: Address already in use
+Jan 13 21:05:30 raspi kernel: [    3.286600] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 21:05:30 raspi kernel: <1052>[    3.938838] systemd-udevd[284]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:05:30 raspi kernel: <1052>[    4.665627] systemd-udevd[290]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:05:30 raspi kernel: <1052>[    4.838746] systemd-udevd[401]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:05:30 raspi kernel: <1052>[    5.027237] systemd-udevd[396]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:05:30 raspi kernel: <1052>[    5.204738] systemd-udevd[332]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:05:31 raspi dbus-daemon[1606]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 21:05:31 raspi dnsmasq[1729]: FAILED to start up
+Jan 13 21:05:33 raspi saned[2308]: do_bindings: [0] bind failed: Address already in use
+Jan 13 21:37:43 raspi kernel: [    3.286097] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 21:37:43 raspi kernel: <1052>[    3.961385] systemd-udevd[284]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:37:43 raspi kernel: <1052>[    4.995476] systemd-udevd[308]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:37:43 raspi kernel: <1052>[    5.125150] systemd-udevd[309]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:37:43 raspi kernel: <1052>[    5.175052] systemd-udevd[348]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:37:43 raspi kernel: <1052>[    5.225068] systemd-udevd[310]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 21:37:43 raspi dbus-daemon[1605]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 21:37:43 raspi dnsmasq[1727]: FAILED to start up
+Jan 13 21:37:46 raspi saned[2309]: do_bindings: [0] bind failed: Address already in use
+Jan 13 21:47:55 raspi dbus-daemon[1605]: [system] Activated service 'org.freedesktop.login1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:00:01 raspi kernel: [    3.286563] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:00:01 raspi kernel: <1052>[    3.985686] systemd-udevd[268]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:00:01 raspi kernel: <1052>[    4.845392] systemd-udevd[302]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:00:01 raspi kernel: <1052>[    5.005643] systemd-udevd[268]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:00:01 raspi kernel: <1052>[    5.054974] systemd-udevd[249]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:00:01 raspi kernel: <1052>[    5.204765] systemd-udevd[320]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:00:01 raspi dbus-daemon[1607]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:00:01 raspi dnsmasq[1729]: FAILED to start up
+Jan 13 22:00:03 raspi saned[2308]: do_bindings: [0] bind failed: Address already in use
+Jan 13 22:14:01 raspi kernel: [    3.313833] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:14:01 raspi kernel: <1052>[    4.095166] systemd-udevd[288]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:14:01 raspi kernel: <1052>[    4.910575] systemd-udevd[289]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:14:01 raspi kernel: <1052>[    5.055193] systemd-udevd[246]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:14:01 raspi kernel: <1052>[    5.114851] systemd-udevd[327]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:14:01 raspi kernel: <1052>[    5.184752] systemd-udevd[280]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:14:01 raspi dbus-daemon[1608]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:14:01 raspi dnsmasq[1730]: FAILED to start up
+Jan 13 22:14:05 raspi saned[2312]: do_bindings: [0] bind failed: Address already in use
+Jan 13 22:28:41 raspi kernel: [    3.265749] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:28:41 raspi kernel: <1052>[    4.156602] systemd-udevd[311]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:28:41 raspi kernel: <1052>[    5.045010] systemd-udevd[311]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:28:41 raspi kernel: <1052>[    5.185137] systemd-udevd[316]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:28:41 raspi kernel: <1052>[    5.234787] systemd-udevd[320]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:28:41 raspi kernel: <1052>[    5.374808] systemd-udevd[294]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:28:41 raspi kernel: [   36.050375] audit: type=1400 audit(1673666886.519:19): apparmor="STATUS" operation="profile_load" info="unchecked profile in failed atomic policy load" error=-17 profile="unconfined" name="/usr/lib/arm-linux-gnueabihf/lightdm/lightdm-guest-session//chromium" pid=1148 comm="apparmor_parser"
+Jan 13 22:28:41 raspi kernel: [   36.059683] audit: type=1400 audit(1673666886.529:21): apparmor="STATUS" operation="profile_load" info="unchecked profile in failed atomic policy load" error=-17 profile="unconfined" name="nvidia_modprobe//kmod" pid=1154 comm="apparmor_parser"
+Jan 13 22:28:41 raspi kernel: [   36.100629] audit: type=1400 audit(1673666886.569:23): apparmor="STATUS" operation="profile_load" info="unchecked profile in failed atomic policy load" error=-17 profile="unconfined" name="man_filter" pid=1162 comm="apparmor_parser"
+Jan 13 22:28:41 raspi kernel: [   36.100656] audit: type=1400 audit(1673666886.569:24): apparmor="STATUS" operation="profile_load" info="unchecked profile in failed atomic policy load" error=-17 profile="unconfined" name="man_groff" pid=1162 comm="apparmor_parser"
+Jan 13 22:28:41 raspi dbus-daemon[1672]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:28:42 raspi dnsmasq[1794]: FAILED to start up
+Jan 13 22:28:45 raspi saned[2377]: do_bindings: [0] bind failed: Address already in use
+Jan 13 22:30:54 raspi kernel: [    3.260524] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:30:54 raspi kernel: <1052>[    4.026264] systemd-udevd[268]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:30:54 raspi kernel: <1052>[    4.915265] systemd-udevd[287]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:30:54 raspi kernel: <1052>[    4.995274] systemd-udevd[347]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:30:54 raspi kernel: <1052>[    5.055432] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:30:54 raspi kernel: <1052>[    5.334885] systemd-udevd[359]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:30:54 raspi dbus-daemon[1603]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:30:54 raspi dnsmasq[1725]: FAILED to start up
+Jan 13 22:30:57 raspi saned[2307]: do_bindings: [0] bind failed: Address already in use
+Jan 13 22:34:27 raspi kernel: <1052>[   12.985028] systemd-udevd[319]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:34:27 raspi kernel: [   13.042332] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:34:27 raspi kernel: <1052>[   14.563528] systemd-udevd[319]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:34:27 raspi kernel: <1052>[   14.564828] systemd-udevd[305]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:34:27 raspi kernel: <1052>[   14.654892] systemd-udevd[307]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:34:30 raspi dbus-daemon[1601]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:34:30 raspi dnsmasq[1728]: FAILED to start up
+Jan 13 22:34:35 raspi saned[2351]: do_bindings: [0] bind failed: Address already in use
+Jan 13 22:42:12 raspi kernel: [    3.297501] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 22:42:12 raspi kernel: <1052>[    3.936250] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:42:12 raspi kernel: <1052>[    4.991347] systemd-udevd[354]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:42:12 raspi kernel: <1052>[    5.175131] systemd-udevd[285]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:42:12 raspi kernel: <1052>[    5.204785] systemd-udevd[314]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:42:12 raspi kernel: <1052>[    5.264734] systemd-udevd[286]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 22:42:12 raspi dbus-daemon[1671]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 22:42:13 raspi dnsmasq[1793]: FAILED to start up
+Jan 13 22:42:15 raspi rngd[2355]: block failed FIPS test: 0x02
+Jan 13 22:42:16 raspi saned[2375]: do_bindings: [0] bind failed: Address already in use
+Jan 13 23:35:35 raspi kernel: [    3.270959] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 23:35:35 raspi kernel: <1052>[    4.009922] systemd-udevd[282]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:35:35 raspi kernel: <1052>[    4.765079] systemd-udevd[290]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:35:35 raspi kernel: <1052>[    4.925224] systemd-udevd[318]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:35:35 raspi kernel: <1052>[    4.935210] systemd-udevd[277]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:35:35 raspi kernel: <1052>[    5.124931] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:35:35 raspi dbus-daemon[1603]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 23:35:35 raspi dnsmasq[1725]: FAILED to start up
+Jan 13 23:35:38 raspi saned[2308]: do_bindings: [0] bind failed: Address already in use
+Jan 13 23:43:19 raspi kernel: [    3.285446] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 23:43:19 raspi kernel: <1052>[    4.091323] systemd-udevd[281]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:43:20 raspi kernel: <1052>[    4.965851] systemd-udevd[282]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:43:20 raspi kernel: <1052>[    5.065176] systemd-udevd[266]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:43:20 raspi kernel: <1052>[    5.184813] systemd-udevd[281]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:43:20 raspi kernel: <1052>[    5.184912] systemd-udevd[352]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:43:20 raspi dbus-daemon[1606]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 23:43:20 raspi dnsmasq[1728]: FAILED to start up
+Jan 13 23:43:25 raspi saned[2309]: do_bindings: [0] bind failed: Address already in use
+Jan 13 23:45:14 raspi kernel: [    6.982309] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 23:45:14 raspi kernel: <1052>[    7.329106] systemd-udevd[354]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:45:14 raspi kernel: <1052>[    7.675016] systemd-udevd[288]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:45:14 raspi kernel: <1052>[    7.734923] systemd-udevd[276]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:45:14 raspi kernel: <1052>[    7.735091] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:45:15 raspi dbus-daemon[1598]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 23:45:15 raspi dnsmasq[1720]: FAILED to start up
+Jan 13 23:45:18 raspi saned[2302]: do_bindings: [0] bind failed: Address already in use
+Jan 13 23:50:57 raspi kernel: [    3.248606] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 23:50:57 raspi kernel: <1052>[    4.145224] systemd-udevd[278]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:50:57 raspi kernel: <1052>[    5.015006] systemd-udevd[267]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:50:57 raspi kernel: <1052>[    5.085108] systemd-udevd[285]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:50:57 raspi kernel: <1052>[    5.134835] systemd-udevd[306]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:50:57 raspi kernel: <1052>[    5.224791] systemd-udevd[282]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:50:57 raspi dbus-daemon[1607]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 23:50:57 raspi dnsmasq[1729]: FAILED to start up
+Jan 13 23:51:01 raspi saned[2311]: do_bindings: [0] bind failed: Address already in use
+Jan 13 23:54:37 raspi kernel: [    4.357310] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 13 23:54:37 raspi kernel: <1052>[    4.829645] systemd-udevd[268]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:54:37 raspi kernel: <1052>[    5.154685] systemd-udevd[395]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:54:37 raspi kernel: <1052>[    5.184665] systemd-udevd[270]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:54:37 raspi kernel: <1052>[    5.235103] systemd-udevd[301]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 13 23:54:37 raspi dbus-daemon[1597]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 13 23:54:37 raspi dnsmasq[1719]: FAILED to start up
+Jan 13 23:54:40 raspi saned[2302]: do_bindings: [0] bind failed: Address already in use
+Jan 14 00:27:02 raspi kernel: [    3.314967] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 14 00:27:02 raspi kernel: <1052>[    3.994291] systemd-udevd[247]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:27:02 raspi kernel: <1052>[    4.965079] systemd-udevd[295]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:27:02 raspi kernel: <1052>[    5.045883] systemd-udevd[276]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:27:02 raspi kernel: <1052>[    5.115140] systemd-udevd[290]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:27:02 raspi kernel: <1052>[    5.254955] systemd-udevd[281]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:27:02 raspi dbus-daemon[1602]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 14 00:27:02 raspi dnsmasq[1725]: FAILED to start up
+Jan 14 00:27:04 raspi saned[2304]: do_bindings: [0] bind failed: Address already in use
+Jan 14 00:28:18 raspi kernel: [    3.274055] uvcvideo: Failed to query (GET_INFO) UVC control 2 on unit 1: -32 (exp. 1).
+Jan 14 00:28:18 raspi kernel: <1052>[    3.936117] systemd-udevd[271]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:28:18 raspi kernel: <1052>[    5.134966] systemd-udevd[282]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:28:18 raspi kernel: <1052>[    5.175086] systemd-udevd[300]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:28:18 raspi kernel: <1052>[    5.254772] systemd-udevd[386]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:28:18 raspi kernel: <1052>[    5.444739] systemd-udevd[299]: Process '/usr/sbin/th-cmd --socket /var/run/thd.socket --passfd --udev' failed with exit code 1.
+Jan 14 00:28:19 raspi dbus-daemon[1602]: [system] Activated service 'org.freedesktop.hostname1' failed: Launch helper exited with unknown return code 1
+Jan 14 00:28:19 raspi dnsmasq[1725]: FAILED to start up
+Jan 14 00:28:21 raspi saned[2304]: do_bindings: [0] bind failed: Address already in use
