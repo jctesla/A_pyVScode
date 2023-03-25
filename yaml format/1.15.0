@@ -1,0 +1,7 @@
+Requirement already satisfied: boto3 in c:\programdata\anaconda3\lib\site-packages (1.26.45)
+Requirement already satisfied: s3transfer<0.7.0,>=0.6.0 in c:\programdata\anaconda3\lib\site-packages (from boto3) (0.6.0)
+Requirement already satisfied: botocore<1.30.0,>=1.29.45 in c:\programdata\anaconda3\lib\site-packages (from boto3) (1.29.45)
+Requirement already satisfied: jmespath<2.0.0,>=0.7.1 in c:\programdata\anaconda3\lib\site-packages (from boto3) (1.0.1)
+Requirement already satisfied: python-dateutil<3.0.0,>=2.1 in c:\programdata\anaconda3\lib\site-packages (from botocore<1.30.0,>=1.29.45->boto3) (2.8.2)
+Requirement already satisfied: urllib3<1.27,>=1.25.4 in c:\programdata\anaconda3\lib\site-packages (from botocore<1.30.0,>=1.29.45->boto3) (1.26.13)
+Requirement already satisfied: six>=1.5 in c:\programdata\anaconda3\lib\site-packages (from python-dateutil<3.0.0,>=2.1->botocore<1.30.0,>=1.29.45->boto3) (1.16.0)

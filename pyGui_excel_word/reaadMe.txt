@@ -1,0 +1,12 @@
+From Consola CMD:
+1° instala Anaconda
+2° conda create -p C:\$mio\pythonSpc\pyguiexcel		// crea un virEnv
+   conda env list
+   # conda environments:
+                         C:\$mio\pythonSpc\pyguiexcel
+   base                  *  C:\ProgramData\Anaconda3
+
+3° pip install pysimplegui				// crear forms
+4° pip install panda						// manejar tbls
+5° pip install openpyxl					// para escribir en MsExcel
+6° c:\code .							   // load VSCode

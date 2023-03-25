@@ -1,0 +1,2 @@
+KITE: es un auto ayudador de AI y Python sintaxis, pero consume recursos
+https://kite.com/login/start-trial?redirect=%2F%2Falpha.kite.com%2Fweb%2Faccount%2Fstart-trial%3Fanon-metrics-id%3Df18654bb-e871-414b-ae5d-34fc5457573c%26cta-source%3Ddesktop_notif

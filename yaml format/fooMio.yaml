@@ -1,0 +1,18 @@
+mumero: 16
+letras: 'Hola Mundo'
+texto: Hola Mundo
+texto2: |-
+  Hola y espero que calnces tus Objetivos
+lista1:
+ - 'Python'
+ - 'NodeJs'
+ - 'Andorid'
+lista2: ['Python', 'Nodejs', 'Androids']
+lista3: [['Python', 'NodeJs', 'Android'], ['gatos','monos','perros']]
+objeto01:
+  numero: 10
+  text: 'hola objeto'
+  objeto02:
+    - 12
+    - 13
+    - -13

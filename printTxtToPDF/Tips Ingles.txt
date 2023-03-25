@@ -1,0 +1,2038 @@
+FIRST BEFORE ALL.-
+NOTA: * es par anotas y descripciones especiales, el • es para las traducciones.
+
+• Bootstrapping : 
+El bootstrapping consiste en la puesta en marcha de una empresa sin apenas recursos. su estrategia se basa en la creatividad,el ingenio y las 
+habilidades.
+• bootstrap = a loop at the back of a boot, used to pull it on.
+• The company is bootstrapping itself, out of a marred financial past = La empresa se está recuperando a sí misma, de un pasado financiero 
+estropeado.
+
+• Outliers : 
+Término también denominado "dato atípico", se refiere a una observación que parece ser incompatible con el resto de los datos relativos a un modelo 
+asumido.
+
+• Bagging : metaAlgoritmo, q ayuda a la varianza y el sobreajuste.
+Es una agregación Bootstrap, también conocida como empaquetado.
+La agregación de bootstrap,  es un metaAlgoritmo de aprendizaje automático diseñado para mejorar la estabilidad y precisión de algoritmos de 
+aprendizaje automático usados en clasificación estadística y regresión. Además reduce la varianza y ayuda a evitar el sobreajuste.
+
+• Boosting que es :
+Boosting es un metaAlgoritmo de aprendizaje automático que reduce el sesgo y varianza en un contexto de aprendizaje supervisado.
+El boosting es un método utilizado en el machine learning para reducir los errores en el análisis predictivo de datos.
+Boosting está basado en el cuestionamiento planteado por Kearns y Valiant
+
+• Sesgo : 
+Orientación o dirección que toma un asunto.
+
+• Web Scraping :
+Web scraping o raspado web, es una técnica utilizada mediante programas de software para extraer información de sitios web.? 
+extracting the data from one or more websites.
+
+• Web Crawler :
+Es un algoritmo o bot usado para analizar el código de un sitio web en busca de informacion, para después usarlas y generar insights(comportamientos) 
+o clasificar los datos encontrados. finding or discovering URLs or links on the web.
+
+• Web Scraping vs Web Crawling :
+Why Web Scraping is better than extracting data through APIs. If you are a business that requires up-to-date information, then web scraping is the 
+choice to lock-in.The short answer is that 'Web Scraping' is about extracting the data from one or more websites. While 'Web Crawling' is about 
+finding or discovering URLs or links on the web.
+
+
+-----------------------------------------------
+• NO confundir : Verb to be(am/is/are + ing, simple present y present continuous.
+I saw keyse report every sunday, this was last year, but this year I'm watching colony.
+ Verb to be (es agregar 'am 'is' 'are' + ing).- I'm working in a office(en este momento) / I work in a Office(habitos).
+
+• simple present .- 
+They watch Nextflix every Sunday. (costumbre, habitos).
+Ellos ven(miran)  Nexflix cada domingo.
+Ellos ven(miran) Netflix todos los domingos.
+he plays soccer with his friends in the afternoon.	
+
+• present continuous .- 
+They are watching nexflix right now.(En este preciso momento)
+Ellos estan mirando nexflix en este momento.
+
+-----------------------------------------------
+• verbo = palabra con la que se expresan acciones, procesos, estados o existencia que afectan a las personas o las cosas
+• sustantivo = sustantivo es una palabra que nombra o designa a personas, animales, cosas.
+• adverbio = que modifica a un verbo.
+• adjetivo = que acompaña al sustantivo para expresar una cualidad de la cosa designada por él o para determinar o limitar la extensión del mismo.
+• Ej de Adjetivo = Ningún alumno realizó la tarea, Cierto día de verano la vi, Tal día como hoy, Cualquier pastel cuesta 1$..
+• Ej de Sustantivo = Un sustantivo es una palabra que sirve para nombrar cosas materiales o elementos
+----------------------------------------
+CIENCIA:
+Ozono, está compuesta por 3s átomos de oxígeno, principalmente como desinfectante depurador y purificador de aguas minerales, Cuando el oxígeno del aire es sometido a un pulso de alta energía, como un rayo, el doble enlace O=O del oxígeno se rompe, entregando dos átomos de oxígeno, los cuales luego se recombinan con otras moléculas de oxígeno. Estas moléculas recombinadas contienen tres átomos de oxígeno en vez de dos, lo que origina ozono, lo normal no es toxico > mas de 0,1 ppm, es incoholor, uele a pescado casi podrido, y de color azulado, permite la sintesis de varios quimico, pero normalmente cumple la funcion en la estratosfera de proteger de los rayos ultra violetas (que sino no habria vida en la tierra), dependiendo de la longtud de los rayos UV permite su descomposicion de 3 a 2 atomos de oxigeno (de alguna forma oxigena el entorno), se habla de la capa de ozono cuando no hay ozono enla atmofera debido a la descomposicion por efectos de gases como el CO2 producto de la quema de madera, caron, combustible etc.
+
+Monoxido.- o Monoxido de Carbono = CO, potencialmente toxico, debio a q sustituye el oxigeno en la sangre (aun mas la hemoglobina) ya que el carbono se acopla al oxigeno, se genera de los residuos dejados por la combustion de gas, estufas, hornillas de cocina, calentadores a queroseno (mal funcionamiento), conbustion de vehiculos, subproducto de procesos oxidativos para quimicos, basicamente se acopla a los grupos prosteticos del cuerpo (como la hemoglobina) alrededor de 250 veces mas que el oxigeno, produciendo la carboxihemoglobina que no puede trasnportar el oxigeno e interfiere en la disociacion del oxigeno de la oxihemoglobina q es el respnsable de llevar el oxigeno a los tejidos de todo el cuerpo. 
+
+Hemo .- grupo prostetico que forma parte de diversas proteinas. las hemoproteinas tienen funciones diversas en la biologia humana.
+
+Cianobacterias.- son procariontes, que estan en la division de clases del dominio de las bacterias.
+
+eucariotas y procariotas.- eucariotas tienen nucleo (donde almacenan su ADN), y este nucleo es rodeado por una membrana, las procariotas no tienen 
+nucleo (por lo tanto su material genetico es mas simple, su gran mayoria son bacterias (se concideran 1ros seres vivos), capaces de realizar la 
+fotosintesis oxigenica(tipo donde el agua dona los electrones y esto hace que libere oxigeno como subproducto, Esta modalidad metabólica
+ es propia de las cianobacterias y de sus descendientes por endosimbiosis (la asociacion donde un organismo habita dentro de otro, simbiosis, 
+el simbiote reside dentro de otro ser vivo)
+
+Taxonomia.- ciencia q estudia los principios, metodos, y fines de la clasificacion y jerarquia, de los seres vivios, en educacion, es p ordenar y diseñar los objetivos del aprendisaje.
+-------------------------------------------------------------------------
+
+• Pronunciacion:
+• I like pepperoni = So do I(a mi tambien/ yo tambien).
+• Conversely(cónvers-li) = Por el contrario = On the contrary
+• contrariwise (kón trere,waiz) = a la inversa
+• Clients based on their purchases = Clientes basados en sus compras
+• Customers based(baisd) on their purchases = los mismo-
+• may means, fulfill a role = may significa, cumplir un rol
+• quitting knowing = dejar de saber
+• nasty bits = pedacitos desagradables
+• turnkey deployment = implementacion llave en mano!.
+• turnkey  = llave en mano, el llavero.
+• deployment = el despliegue.
+• even as a “fallback” = como un alternativo, (replegarse, alternativo)
+• Even distributions that no longer come = incluso
+• So far you've learned = hasta ahora has aprendido.
+• so far = hasta ahora.
+• funniest moments = Momentos Divertidos.
+• thoughts  = Pensamientos.
+• Toggle= es el comportamiento de una tecla o modo de 2 tiempo On/Off, Shift/NoShift, 1/0
+• to toggle the check mark on and off. = para ACTIVAR y DESACTIVAR la marca de verificación.
+• to toggle the button on/off. = para ACTIVAR y DESACTIVAR el Boton.
+• feedforward = retroalimentacion.
+• backpropagation = retropropagación
+• overfitting = sobreajuste
+• even worse = peor aún
+• truth(truht) = la verdad, lo veraz. 
+• True es un ADJETIVO que se puede traducir como "cierto", y "truth" es un SUSTANTIVO que se puede traducir como "la verdad"
+  Ej de Adejetivo :  Ningún alumno realizó la tarea, Cierto día de verano la vi, Tal día como hoy,Cualquier pastel cuesta 1$, Ninguno de mis hijos tiene gripe..
+  Ej de Sustantivo: Un sustantivo es una palabra que sirve para nombrar cosas materiales o elementos
+• by the way we are herores = por cierto somo heroes.
+• but by the way we pretend to be more advanced as well = pero por cierto pretendemos ser más avanzados también.
+• advanced(advanst)  = avanzado, adelantado.
+• Ad maiorem(mayorem) Dei gloriam = Para mayor gloria de Dios
+• laugh(laf) = reir, reirse.
+• This will grow down the road = esto crecerá mas ...adelante, en el ....camino, en el ...futuro.
+• This will (grown up) down the road. = Esto crecerá en el camino. ( figurativamente crecera bajanado por el camino x el camino de bajada es mas facil q el de subida)
+• Has been out for a while.. = Ha estado fuera por un tiempo / I'v been ..
+• stock exchange = bosa de valores
+• making them capable = meyking dem keybebol.
+• peripherals = periferals.
+• sample = sampel.
+• I walk through today = wak tzru todey = Camino a través de hoy.
+• but = bat.
+• before = bifor 
+• i'd like = aid like
+• API = Ey-Pi-Ay
+• as its name implies = como su nombre lo indica (as ids name emplais)
+• compared = compeard
+• optimized = optimaizd
+• ideal = ay-dial.
+• such = sach.
+• each service is uniquely = ich servis is yunicli.
+• so forth = así sucesivamente.(sow-forz)
+• quite often = kuait-ofen = muy a menudo.
+• features = fitchurs.
+• offered = ofet.
+• device = divais.
+• perpective = perspéctivas.
+• measurment = mechurmand. = medicion.
+• client = klaiant.
+
+• Adjetivo:
+• -----------
+• El adjetivo es la palabra que acompaña al nombre para determinarlo o calificarlo.
+• su = his, your , its, their, her
+• sus = his
+• de su = his
+
+• verbo "To be":
+• -------------------
+• I was:  yo era o yo estaba.
+• You were:  tú eras o tú estabas.
+• He was:  él era o él estaba.
+• She was:  ella era o ella estaba.
+• It was:  eso era o eso estaba.
+• We were:  nosotros eramos o nosotros estábamos.
+• You were:  vosotros erais o vosotros estabais.
+• They were:  ellos eran o ellos estaban.
+
+Wrote is the past simple tense. Written is the past participle:
+-----------------------------------------------------------------------------
+• Preterito = Que ya ha pasado o sucedido
+• Wrote:
+https://grammar.yourdictionary.com/vs/when-to-use-written-vs-wrote.html
+• Written: Tiempo Pasado
+• He had written an amazing agenda, but it was changed.
+• They had written our paper in 10 minutes, and it showed.
+• There were so many poems that he had written.
+
+• Written: Tiempo Presente pasado
+• The computer has written so much amazing code	= La computadora ha escrito mucho código asombroso
+• I have written 10 poems today = He escrito 10 poemas hoy
+• I had written 10 poems today = Había escrito 10 poemas hoy
+• I had have written 10 poems today
+• I Had lo UpLoad this partocular Videos.
+• She has written several papers in class  = Ella ha escrito varios articulos en clase.
+• He has written it so many times
+-------------------------------------------------------------------------
+https://elblogdeidiomas.es/203-expresiones-ingles-coloquiales/
+• In for a dime in for a dollar = En por un centavo en un dólar
+• In the altogether = En pelotas
+• Indeed = Ya lo creo, en efecto
+• Is cutting edge = Es el último grito/moda
+• Is giving him hell = Le hace la vida imposible
+• Is water under the bridge = Es agua pasada / es una situacion pasada
+• It sounds Greek to me =  Me suena a chino
+• It turns out that =  Resulta que…
+• It’s a rip off =  Es una estafa
+• It’s bullshit =  Es una mierda
+• that's bushed - eso esta arruinado.
+• It’s finger licking good =  Está para chuparse los dedos
+• It’s high time/About time =  Ya es hora / Ya va siendo hora
+• It’s in the lap of the Gods =  Que sea lo que Dios quiera
+• Just in case =  Por si acaso / Por si las moscas
+• Keep an eye on… =  Vigila a…/Echa un ojo a…
+• Keep dreaming =  Sigue soñando
+• Kiss and make up =  Borrón y cuenta nueva
+• Kind of/Give or take =  Más o menos
+• Keep you hair on! =  ¡Cálmate!
+• Keep it up =  Sigue así
+• Last but one =  Penúltimo
+• Like water off duck’s back  =  Palabras necias, oídos sordos  =  British
+• Long story short… =  Resumiendo…
+• Long time no see! =  ¡Cuánto tiempo!
+• Look out! =  ¡Cuidado!
+• Make my day =  Alégrame el día
+• Make up your mind =  Decídete / Decide tú
+• Me neither =  Yo tampoco (informal)
+• Meanwhile/In the meantime =  Mientras tanto
+• Mofo =  Modo abreviado y vulgar (más aún) de decir motherfucker
+• Moreover =  Además
+• Much to my dismay =  Para mi desgracia
+• My bad =  Culpa mía (USA)
+• My goodness! =  ¡Madre mía!
+• Never again =  Nunca más
+• Never mind =  No importa (tono amable)
+• No wonder =  No me extraña
+• No worries =  Sin problema / no te preocupes
+• Nor/neither do I =  Yo tampoco
+• On the face of it =  Según las apariencias
+• Once in a while / from time to time =  De vez en cuando / de vez en cuando.
+
+
+
+-----------------------------------------------------------------------
+SCRUM.-
+Scrum  es un proceso q se aplica regularmente en un marco que permite el trabajo colaborativo entre equipos. Al igual que un equipo de rugby (de donde proviene su nombre) cuando entrena para un gran partido, scrum anima a los equipos a aprender a través de las experiencias, a autoorganizarse mientras aborda un problema y a reflexionar sobre sus victorias y derrotas para mejorar continuamente.
+Cuales son las Actividades comunes de un Scrum:
+planificación de sprint, scrums diarios, trabajo de desarrollo, revisión de sprint y retrospectiva de sprint
+
+SPRINT.-
+el sprint es un período de tiempo fijo en el que tiene lugar un conjunto definido de actividades y al final del cual se crea un incremento de producto., una mejora o un cambio significativo para mejorar.
+
+BMI(Body Mass Indicato)
+HTTP / HTML / CSS / JS / APIs / DataBases / Mobile / PWA (progressive Web Application) / 
+-----------------------------------------------------------------------
+• The Majority of the values cluster closely around the mean = La mayoria de los valores se agrupan de cerca alrededor del promedio.
+• The graphs above should  give us a hint = El grafico en cuestion deberia darnos una pista.
+• hints = insinuar, dar una pistas.
+• can you give me a Hint, please? = ¿Puedes darme una pista(indicio), por favor?
+• don't underestimate the force =no subestimes la fuerza (Darth Vader)
+• surveying = analizar, estudiar etc, el acto de analizar estudiar
+• Norway = Noruega / Sweden = Suecia / Netherlands = paises bajos idioma Dutch = Holandes
+• forecast = prediccion
+
+• you can't give up = no puedes rendirte!
+• The various categories outlined represent = las diversas categorias expuestas represetan...
+• giant (yaint)= gigante, gigantesco
+• This tha final Gold have three different approach  = 3 diferentes enfoques.
+• because I think you still have varoius confusion regarding it =  x q creo q aun tienen varias confisiones al respecto!
+• I just went with the flow, I miss .. = es com escusarse..
+• It is not advised = no se aconseja...
+• real-time stock prices = el precio de las acciones en tiempo-real.
+• gather = recolectar
+• lookup value = busca este valor.
+• so those wraps up the differences = así que eso envuelven las diferencias
+• membership = membresia (significa ser parte de una grupo)
+• belonging to or being a part of a group = pertenecer o ser parte de un grupo-
+• seldom used = rara vez usado.
+• and aways it goes = así se va, así es como va, así se hace
+• things that really you don't bother looking at = cosas que realmente no te molestas en mirar
+• rather than ... = en lugar de..
+• it's not something, you're gonna figure out, right away = no es algo que vayas a descubrir de inmediato
+• right away = inmediates, rapido.
+• figure out = averiguar, resolver, buscar una solucion.
+• i want to figure out howit function!.= quiero averiguar/saber como funciona
+• it's what you can figure out = es lo que puedes averiguar.
+• people want to figure out = personas quieren averiguar..
+• I finally figured out this mathematical equation. = finalmente resolvi esta ecu mate
+• Further work yielded  = Trabajo adicional producido..
+• yields = rendimientos	/ yields(ielt(s))
+• Yield = Rendimiento.(como produccion como efectividad)
+• Set up budget alerts  = configurara alerta de presupuesto
+• will be slightly weakened(debilitado) = se debilitará ligeramente.
+• every tuesday at noon = c/martes a medio dia.
+• gonna be a quiet journey = va ser un viaje/aventura tranquila
+• Bitwise = bit a bit ( in a programming language that manipulates the individual bits in a byte or word.)
+• ...and I very often find myself = Muy a menudo me encuentro,
+   jumping back into a  = saltando de nuevo a un 
+   fundations first approach = primer enfoque de fundamentos.
+• nvcc is the NVIDIA CUDA Compiler, thus the name = ... ,de Ahi el Nombre
+• casual work environment = informal
+• I'm still surrounding by peoples / •surrounded = rodeado
+• I'm still in hustle mode = aun estamos en modo ajetreo.(un forma de decirlo)
+• I still can't get out  /  I still can't snap out = todavia no puedo salir
+• Why I couldn't just chill = ¿Por qué no podía simplemente relajarme?
+• I grew up in a pretty shitty neighborhood = creci en un barrio baste de mierda
+• Neighborhoods = vecindarios o barios de vivienda.
+• The Nearest Neighbors  = los vecinos mas cercanos. /Da Nireast--)
+• I slept on the couch living room are = domi en el sofa de la sala de star.
+• decent income = ingresos decentes
+• this music is a little sweeter = un poco mas dulce
+• fearless = audaz
+• injured(heridos) amid(en medio) chaos(caos) = heridos en medio del caos
+• it's kinda(kaint da) slow = es un poco lento.	/  it's a kind of  = es una especie de.. / es un tipo de..
+• it's not really smooth = no es realmente suave
+• effective as of the Effective Date. = Efectiva a partir de la Fecha de Vigencia.
+• to be duly executed  = para ser debidamente ejecutado 
+• by their respective signatures below, = mediante  sus respectivas firmas a continuacion
+• IN WITNESS WHEREOF = EN FE DE LO CUAL
+• He will be paid = se le pagará, ( no se usa el será pagado, x es de persona a persona)
+• incurred on behalf of = esta incurrido(se ref a comenter una falta)  en nombre de..
+• Otherwise = en caso contrario/ en otro caso. 
+• faithfully = fielmente, codiderado.
+• reachable =accesible
+• Deadlines and commitments = plazos y compromisos
+• This going to take a little while = Esto va a tomar un poco de tiempo
+• To briefly refer back to the introduction in this document = Para referirme brevemente a la
+introducción en este documento.
+• share knowledge and brainstorm with your fellow partners. = compartir conocimiento y lluvia de ideas con sus compañeros socios.
+• brainstorm = lluvia de ideas.
+• fellow = compañeros de trabajo.
+• pathners = socios.
+
+• But the coolest thing is that you can define your own types. = Pero lo mejor es q...
+• planning ahead is a better strategy than learning from mistakes =
+ planear con antelacion es mejor estrategia q aprender de los errores.
+• to be proficient  = para ser competente.
+• doing in depth = hacerlo enprofundidad
+• let me guess<gass> = Déjame adivinar! 
+• let me guest somebody = dejame invitar a un invitado.
+
+• it's pretty much the same = es casi lo mismo
+• pretty much = bastante.
+
+• confidence = la confianza, confidencia.
+
+• behave = comportarse.<biJeiv>
+• behaves = .. se comporta. <biJeivs)
+• rendering = la representación de algo..
+• Rendering = representacion.
+• render : rendir <..algo>
+• render = la representacion / interpretacion./hacer
+• You dont have to re-inventing the wheel = ¡No tienes que reinventar la rueda!
+
+• cli = <c, al, ai>
+• cla = <c, al, ei>
+• clj = <c, al, yei>
+• clj = <c, al, yi>
+• cly = <c, al, wai>
+
+
+• briefings (brifings)= es el acto de hacer sesiones informativas
+• that is underway  = que esta en camino( en marcha.
+• gathered (gader) =  reunidos.
+• beings = seres
+• craft = artesania/arte
+
+• can be chained together = pueden estar encandenados
+• While these two functions look nearly identical if we pass a number to both we get different outputs. =  
+Si bien estas dos funciones parecen casi idénticas, si les pasamos un número a ambas, obtenemos resultados diferentes.
+
+• While these two functions look nearly identical = Si bien estas dos funciones parecen casi idénticas
+
+• misunderstood idea = idea mal entendida.
+• confident = seguro/a
+• swizerland = suiza <suizerland>
+• anybody shout it out = cualqiera puede gritarlo!/decirlo alto, de forma espontanea
+• shout = gritar (chaout)  / shout it out (char-it out)
+• shut up  = Cállate!   (shut =chat) (suena igual q ~chat up)
+• speak up = Habla Alto!
+• to shout something out = a gritar algo
+•  brave enough = suficientemente valiente
+• What are the hardest part above building a web page? = ¿Cuáles son las partes más difíciles de construir una página web?
+•  I apologize I won't be offended = Pido disculpas no me ofenderé
+• if you were hoping that I was gonna cover this contents = Si esperabas q cubriera este conetenido
+•  instead of following anything = en lugar de seguir cualqier cosa!
+• If you are not a member of the bureau = Si Ud no es mienbro de la oficina/despacho
+• I'm learning to fly, but I ain't got wings = Estoy aprendiendo a volar, pero no tengo alas
+• Coming down is the hardest thing = Bajar es lo más difícil.
+• hardest thing = lo mas duro / dificil.
+• this is the most hardest thing = esto es lo más dificil
+• Recursion <ricursion> = recursividad
+• within = dentro de../ con..
+• whether it is formal, informal or neutral =
+• Nest an Anchor Element within a Paragraph = Anidar(unir) un elemento de anclaje dentro de un párrafo
+• Anchor Elements = Elementos de anclaje
+• Anchor tags = etiquetas de anclaje o etiqueta p sujetar lo q busco o quiero identificar apartir de este tag, puede ser 'http', '<h1>' etc
+• Being president ser Presidente..
+• Request for Comments (RFC)(FRASE*)
+• that have always bugged me = que siempre me han molestado
+• bugged = molestar
+• (FRASE*) How can you see two sunsets in one day?
+• Our Commitment to California = nuestro compromiso con california.
+• that have been standing sentinel = que han estado de pie centinelas
+• We even utilize = Nosotros Incluso utlizamos...
+• to enjoy a well-great end-of-year vacation.
+• deserved  = merecido
+• disclosure = divulgacion, divulgar.(la) revelacion.
+• disclose = revelar (reveal, disclose, show, expose)
+• Rewards in return = reocompnesa a cambio
+• rewards = recompensas.
+• to summarize = en resumen.
+• Professional summary(sumEri) = resumen profesional.
+• landmarks: = marcador son hitos.
+• Is it suddenly smarter? = Es de repente más inteligente.
+• Is it suddenly = es de repente...
+• The Machine Learning Landscape = el panaroma del aoeedisahe automatico
+• nothing happens until the signal passes the threshold = no pasa nada hasta q la señal  pase el umbral.
+• threshold  = Umbral
+• trip = viaje
+• That I put down in the words = Que pongo en las palabras
+• I hope you don't mind = espero no te importe
+• Despite the setback = A pesar del revés
+• Free fallin' now I'm
+• viable= vayabal
+• And all the bad boys are standing in the shadows = Y todos los chicos malos están parados en las sombras
+• sweet love of mine = dulce amor mio.
+• sweet child of mine = dulce hijo mio
+• Blogging is a a marathon, not a sprint
+• A lot of bloggers struggle with these challenges. = Muchos bloggers luchan con este desafios/retos.
+• struggle = luchan
+
+• This book will instead focus on developing the right mindset(mainSet) = En cambio este libro se centrara en desarrollar la mentalidad adecuada.
+• the right mindset = la mentalidad adecuada.
+• This book will instead focus on = En cambio este libro se enfocará/centrará en...
+• I've written 1,500 posts on my blog = He escrito 1500 publicaciones en mi blog.
+• entrepreneur = empresario emprendedor (una persona que organiza y opera un negocio o negocios, asumiendo riesgos finan)
+• partnership = soscios, sociedad
+• Chris is living proof = Cris es la prueba viviente
+• Custom club banners = carteles de club peersonalizados
+• Custom = personalizados.
+• This chapter is a smorgasbord of “how to get started” recipes = Este capitulo es una mescla hererogenia de receta "de como empezar"
+• Personal Suitability = Idoneidad personal
+• actually trying that stuff out = realmente probando esas cosas.(Currently = actualmente)
+• Don’t feel shy about actually trying that stuff out = No tengas vergüenza de probar esas cosas
+• we’re proud of our super in-depth text-based tutorials = Estamos orgullosos de nuestros tutoriales muy detallados basados en texto.
+• boost your python skills = aumenta tus habilidades con Python
+• Future science is upon us = la ciencia del futuro esta encima de nosotros.
+• I just wait for breaking day! all the time = soo espero que amanezca, todo el tiempo.
+• did you end up hitting a wall? = ¿Terminaste golpeando una pared?
+• The people say, they're going to get in shape = Las personas dicen, q van a poner en forma
+• I'll hold you close in my arms = Te abrazaré entre mis brazos
+• My endless love = Mi amor sin fin
+• how much i care = cuánto me importa
+• I guess so = supongo que si!
+• I guess I'll always be the sad man = Supongo que siempre seré el hombre triste (I guess = I suppose)
+• I just had to be away = solo tenia que estar lejos.
+• Waitin' for the break of day = esperando el descando del dia.
+• Come and hold me close tonight = ven y abrazame esta noche
+• In the darkest night, The moon stays away = en la noche mas oscura, la luna se aleja.
+• Or a night seem like a lifetime = o una noche parece toda una vida
+• Just One Lifetime = solo una vida a la vez.
+• You should have at least two 'if' statements = deberías tener al menos 2 sentencias  'if'
+• by the same token, note that you not should be compared with frmwks = del misma mod, tenga en cuenta que no debe ser comparado con frmwks
+• by the same token, note should not be compared with frmwks = del mismo modo, note no debe compararse con frmwks
+• so in essence = asi q en escencia...
+• I come in good faith = Vengo de buena fe
+• fruition = fruición ( Placer o gozo intenso que siente una persona al hacer algo. 
+"mayas y aztecas consumían con fruición las carnes del pavo y del perro, animales domésticos siempre a punto 
+para la matanza"
+
+• Bank Wires = transferecnias bancaria.
+• would erupts in the streets and blood would surely spill = estallaría en las calles y la sangre seguramente se derramaría
+• riots(riots) = disturbios 
+• sweat,toil = sudor esfuerzo
+• wealth (walft/welTH)= poder
+• Protect Your Wealth = protege tu riqueza / tu poder
+• let's face it = 
+• unlikely = improbable, q no susceda 
+• I'not here to preach doom = no estoy aqui para predecir la perdicion.(colapso)
+• your retirement savings = sus ahorros para la jubilación guardados.
+• evil agenda = agenda del mal
+• Rogue Economics = Economia desHonesta.
+• In other words, regardless of your experience, you can profit from this system. =  
+En otras palabras, independientemente de su experiencia, puede beneficiarse de este sistema.
+
+• in the small tech stock market = en el mercado de valores de pequeña tecnología
+
+• profitable returns = retornos rentables.
+• Non-profit business = Negocio sin fines de lucro.
+
+• becomes mindful = vuelva conciente
+• that you need as a developer to fulfill = Que necesitas como desarrolladora cumplir.
+• utterances (ótrorances) = declaraciones
+• parte del 2022: es para 5g devices, So we're ready to rock & roll!
+• Thank you, it was my pleachure!
+• that's bushed it = eso esta arruinado.
+• uses a different approach = usa un enfique diferente.
+• As of October 2020 = a Octubre del 2020
+• to build a rich audio landscape = para construir un rico panorama de audio
+• Lambda function = función anónima
+• the code is straightforward (estreyfordward)= el código es sencillo(muy facil)
+• Reenviar currículum = renviar curriculum/Resumen
+• they can get from zero to 100 km/hr in a blink of an eyes = sobre el leopardo la chita 
+• to be releasing(rilising) = para ser liberado.
+• SaltyGirl is a sassy, confident woman. She is opinionated, intelligent and a go getter. She's kind to others and gives back in numerous ways and hopes to inspire those around her.
+SaltyGirl es una mujer atrevida y segura. Ella es testaruda, inteligente y emprendedora. Es amable con los demás y devuelve de muchas maneras y espera inspirar a quienes la rodean.
+
+• sassy = picaro, fresco, atrevido..
+
+JERGA Salty:
+• Salty, is a slang term for irritated, angry, or resentful, especially as a result of losing
+Termino de jerga de (achorada), para expresion de irritacion, enojo, resentido, especialmente como resultado de perder.  the slang term “salty” can be used when people are jealous of your success.
+
+• what have we learned over the last decade? = que hemos aprendido durante la ultima decada?
+• baffle researchers = Investigadores desconcertantes
+• Briefings(brifings) = a meeting for giving information or instructions.
+• to the great  threshold = al gran umbral
+• threshold = umbral
+• Chart Your Path = traza tu camino, 
+• if they feel that “it goes without saying.” = Si ellos siente que "no hace falta decrilo"  (comportamiento: lo haran sin decrilo)
+• He goes without saying = es el comportamiento de "No hace falta decirlo"
+• mindful  = conciente de..
+• retain(ritein) = conservar/retener
+• released (rilis) (verbo/adj)= liberacion	released = liberado/da
+• feasible(fisabel) (adjectivo)= factible / fact = hecho  / this are in fact feasible = esto es de hecho factible
+• continues to be a stand-alone product and remains available from the MOTODEV web site.= sigue siendo un producto independiente y sigue estando disponible desde el Sitio web MOTODEV.
+• remains committed =  sigue comprometido
+• remain(verbo) = permanecer
+• What are we missing? = Qué se nos esta pasando por alto?
+• Missings = desaparecido, que falta, perdido/da
+• I Missing something = me falta algo..
+• I Missing you = me faltas tu, o Te extraño. 
+• Opportunities humanity have missed in 100 years = Oportunidades que la humanidad ha perdido en 100 años
+• foregone(adjetivo) = dar resultado  /   foregone opportunities = oportunidades perdidas
+• I didn't realize, that back between 1986 and the early 90's = No me di cuenta de q entre 1986  
+• realize(rílaiz) = (verbo) darse cuenta.
+• hell-bent = empeñada (Adjetivo)  /  why are you hell-bent on leaving? = ¿Por qué estás empeñado en irte?
+• Tecnología disruptiva es cualquier tecnología o innovación que deja obsoleta la tecnología anterior. 
+   El ordenador personal, el teléfono móvil y la rueda tienen algo en común: los tres son ejemplos de tecnologías disruptivas.
+• encounter (en-counter) = encuentro(unexpectedly experience = experiencia inesperada) 
+• wealth (welft)= poder
+• motivation procrastination = dilación motivación
+• fuzzy tech = tecnologia difusa.
+• fuzzy clouds = nubes borrosas
+• depicted = representado/a
+• messed up = desorden, hecho un desastre
+
+• wheat = trigo
+• Waht's Inside songs fromWaitress(camarera)
+• client proves itself somehow on the reuqest = el cliente prueba por si mismo de alguna manera a la solicitud.
+• somehow = de alguna manera
+
+• just be aware = solo ten cuidado
+• we have to be aware of this = tenemos que ser conscientes de esto
+• we need to be aware of one thing = Necesitamos ser conscientes(aware) de una cosa
+• to be aware = ser conciente.
+• bear in mind = tomar encuenta / tener en cuenta
+• aware of it = conciente de esto
+• aware = conciente.
+• become aware = darse cuenta, tomar conciencia.
+
+• don't be worse = no seas peor
+• affordable = inexpensive; reasonably priced. "affordable housing"
+• branding = marca <la promoción de un determinado producto mediante publicidad y diseño distintivo.>
+• viewport = ventana grafica, < se refi a una ventana visible en una torre o x el estilo>>
+• Returns all documents that match the conditions of <<either clause>> = Coincidan con las condiciones <<de cualquiera>> de las cláusulas.
+• So far = hasta hora, asi que..
+• Like a mention early = como dije hace un rato, 
+• a couple of weeks meaning = un par de semanas
+• sharded = fragmento.  fragment = fragmentado.
+• outer = exterior,outside = desde el exterior/afuera
+• Read it through only = lrerlo solamente
+• kind of verbose = algo prolijo (Que se detiene en los más pequeños detalles al hacer una cosa)
+• you have one ball, two apples lastly it's a rare fruit! = tienes una bola, dos manzanas por último, ¡es una fruta rara!
+• whenever = cuando sea./ siempre que.
+• essentially = escencialmente.
+• and actually to make this easy = y de hecho para hacer esto fácil
+• a passport has a bunch of different ways you can log = un pasaporte tiene muchas formas diferentes de registrar
+• engines = motores
+• wisdom = sabiduria.
+• bias(bayias) = parcialidad
+• confirmation bias = sesgo de confirmación
+• Every Conversation you strike , You learn. = Cada conversación que entablas, aprendes.
+• airborne (erborn)= Aerotransportada
+• working on a shift schedule = Trabajando en horarios de turno
+• Yes it's working,life is good... = espresion de alegria cuando algo funciona
+• Oh What is wrong with you?, you aggravating thing? = Agravando las cosas.
+• darn it, cruch and burn = m... sea, desastre/Aplastar y 
+• my goodness = Ay! Dios Mio!.
+• I hate it when that happens
+
+• credits from other awards = creditos de otras adjudicaciones(supone cursos)
+• award = (la) adjudicacion, (la)compensation, (el)Premio.
+
+• strip leds= banda de leds.
+• laug = reír  / laughing = riendose
+• hippie = a un movimiento contracultural, libertario y pacifista, nacido en los años 60
+• friki = Am0r a la paz, friqui = referirse a una persona cuyas aficiones, comportamiento o vestuario son inusuales.
+• I already done it, in advance(adelantado) = Ya lo hice de antemano...
+• The cool all thing is that it's free = Lo bieno de todo, es q  es gratis
+• smooth landing = aterrizaje suave, es cuando le dices a una persona calmate...
+• slope  = Pendiente( un inclinacion = pendiente)
+• little bit more clever = acer un poqito mas inteligente
+• carrying = es la accion de llevar
+• sluggish = lento/a
+• very straightforward = muy sencillo
+• so forth = así sucesivamente
+• reach integration = llegar a la integración
+• edge computing is a paradigm shift = edge computing es el cambio de paradigma
+• is no nvidia/gpu at all = no hay nvidia/gpus en absoluto.
+• surveillance system = Sistemade vigilancia-
+•  pretty much second to none = practicamente insuperable.
+• onboarding experience, onboarding process = experiencia "incorporada" , proceso de integracion.
+
+• The difference between the two systems is "under the hood", namely in the way information is referenced. = 
+"Under the hood" means literally, "Under the car hood, where the engine is"... and in your phrase it's being used to highlight that the difference between the two systems lies in the way they work rather than in the way they "look" or present themselves to the user.
+
+• anyone who wilfully(willfali) = intencionadamente/voluntariosamente.
+• downlow = Bien abajo.
+• underhanded is the one I'd use = deshonesto.
+• No Handcuffs = sin exposas
+• he did it covertly = Lo hizo de forma encubierta
+• you don't have to make such a painful trade-off = no tienes q hacer como una compensacion tan dolorosa!
+• in the process You will learn the trade-offs = en el proceso Aprenderás las Compersar..
+• So, that's pretty much on how to create our database in the cloud = eso es mas o menos sobre como crear nuestra BD en la nube.
+• Brew a Coffee = preparar un cafe.
+• Do you want to Brew a coffe? = ¿Quieres preparar un café?
+• kind of neat = 
+• I'm super excited about it = Estoy super emocionado por ello.
+• and will talk to anyone about it = y hablare con cualqiera al respecto
+• because I think it's kind(cain) of neat(niit), so with that, thanks very much = x q creo/pienzo q es algo genial, asi que con eso, 
+• ¿Puede dar un saludo? = Can you say hello?
+• We’re just chilling (out). Do you want to come round? = Solo nos estamos relajando/descanzando. ¿Quieres venir?
+• Nothing much, just hanging out with Sally = Nada, solo pasando el rato con Sally
+• Really? I’d love to meet him. = ¿En verdad? Me encantaría conocerlo.
+• Then we can 'carry on' and continue with our lives = Entonces podemos 'continuar' y continuar con nuestras vidas
+• whenever you want = cuando quieras.
+• (without bluebrid pckg)..So essentially, if we have a function that uses "yieldpromise", this "yield" doesn't know what to do with *promises object.
+• So, let me go a head, 
+• this makes a lot of sense = esto hace q tenga mucho sentido.
+• this have quit of sense = esto tiene bastabte/mucho sentido!.
+• Yes, I gotta work-it-out
+• Yes, I gotta(gade) work it out = Si tengo que Resolverlo!.(tienes un problema con este asunto...si tengo q resolverlo)
+• I got an idea pretty decent = tengo unaidea bastabte decente <cuando quieres opiniar en una converacion)
+• breed = raza
+• 10 years early = 10 años antes.
+• de la cancion de "Coward Of The County", El cobarde del condado
+• Son, my life is over, but yours has just begun" = Hijo, mi vida se acabó, pero la tuya acaba de empezar
+• push back/turn back = la accion de retroceder, 
+• fulfilled = cumplido.
+• Deferred  = diferido
+• scoop(escoup) = una cuchara, una palita, etc.
+• income and expenses = ingresos y gastos.
+• Please pay your invoice using =
+• Absolutely I love that stuff
+• hence(jans)  = por lo tanto.., por eso..
+• therefore = por tanto..
+• and therefore, = y por lo Tanto, ....
+
+   The contents of this book are like a message in a bottle
+• Thus, we should not be so concerned about the bottle = Por lo tanto, no deberíamos preocuparnos tanto por la botella
+   but about the message itself, yes = pero sobre el mensjae en sí, SI
+
+• prevailing assumptions (prevaling asumchuns) = supuestos prevalecientes
+
+
+• we must also make an assignment = También debemos hacer unaasignación 
+• Every component, in addition to defining the markup = c/compont ademas de definir el marco...
+• t's silly = es tonto(de tontito)
+• How do you do? = como esta?
+• Pleased to meet you = encantado de conocerle.(Pleased = satisfecho)
+• a life-threatening condition = Una condición potencialmente mortal
+• Total Prizes = Le premio total es
+• onwards = en adelante / forward = adelante / on forward = en el avance.
+• we will dive in to java code = nos sumergiremos en el codigo java.
+• dive in = sumergirse, profundizar, un tema, etc.
+• I will write = Escribiré /  I Will = Lo haré! (disposicion)
+• I would write = Escribiría / I Would = Lo Haría! (intension)
+ WILL se usa p  referirnos a la DISPOSICIÓN o CAPACIDAD de un sujeto para realizar una acción  y ESTADOS FUTUROS
+ WOULD se usa para describir COSTUMBRES y para hablar sobre ESTADOS y HECHOS HIPOTETICOS en el futuro.
+
+• now quite often = ahora bastabte/muy amenudo ~ ahora muchas veces,
+• quite = muy, bastante.
+• quite(kuait) rare(rer) = es muy raro...
+• a bunch of methods = un monton de metodos.
+• waiting for ,the break of day = esperando a q amanezca.
+• evolved = evolucionado.
+• againsts(aganst) all odds = Contra todo pronostico (viento y marea, es decir contra todo).
+• Against the wind = contra el viento, en contra del viento.
+• punishment = el castigo , escarmiento.
+• struggle(estrugol) = expresion de esforzarse (para aprender algo..), hay que luhcar para conseguirlo.
+• engage  = accion de acoplar, 
+• reports to executives and stakeholders. = reporte a ejecutivos y grupos de interes(participantes o grupos de negocios)
+• unreliable(on-relayabol) = poco confiable (no digno de confianza)
+
+
+• screw up = cuando metes la pata
+• the furniture was very fancy = los muebles se veian bien lujoso.
+• fansy = fantasia, lujoso.
+• I need something fast, I don't have even a little time. = Necesito algo rápido, no tengo ni un poco de tiempo.
+• thumb up(zoom up) = pulgar arriba (down) = abajo..
+• wrapped = envuelto.
+• Puttin <wraps up> his news= Puttin <concluye> sus noticias.
+• wrap = envolver
+• Bundle = a collections of things or  quantity of material tied or wrapped.
+• the upcoming election= las próximas elecciones (tiempo)
+• scraps anything else = desecha cualquier otra cosa.
+• refuse(refius) = negar (negacion)
+• refuse to be content = negarse a estar contento.
+• upshot = resultado (de una calculo)
+• best-of-breed = lo mejor de su raza
+• but UML itself just provides(probaits) = pero UML por si mismo solo provee/proporciona...
+• Although UML is most often associated with = Aunque, UML se asocia mayormente con
+• is most(most) often(offen) = la accion de decir --> es mas a menudo
+• is guilty to you = es culpable de ti.
+• disease = enfermedad (a disorder of structure or function in a human, animal, or plant,)
+• Disclaimer = Descargo de responsabilidad
+• it was wear out = estaba desgastado.(wear=desgaste)
+• mentorship = tutoría,
+• business(bisness) disagreement(disagritment) = acuredo roto (desacuerdo comercial)
+• is nearly impossible = es casi imposible.
+
+• revamp = modernizar!
+• throw(zrow) back = devolver algo.
+• reflect(riflect) = reflexionar
+
+• Think = pensar, reflexionar, 
+• I thought = pensé.
+• Thought(zoth) = (sustantivo) el Pensamiento.
+• Thoughts(zoths) on the(di) NVIDIA Acquisition(acue-sichion) of Arm = Reflexiones sobre la adquisición de Arm por NVIDIA
+
+• though(Thou) currently(currenli) only = aunque actualmente solo...
+• although(ol Thou) = aunque, sin embargo.
+• However = sin Embargo ( es un Adverbio)
+• Even though the question was originally asked for Android L support, = Aun que la Pregunta fue Originalmente preguntado para soporte de Android
+
+• enhanced(en-jans) security(sekiuriti) = seguridad mejorada
+• Define and accurately use content-related vocabulary = Definir y Utilizar con precision el contenido..
+• accuracy = precision.
+• accurately = precisamente.
+• sweet balance = dulce, ligero balance.
+• Budget Webcam = camara economica.
+• recipe(ree-cepi) = receta.
+• fuel shortages this summer! = escaces de combustible este verano.
+• trace-off = seguimiento, accion de rastreo.
+• come undone = Deshacerse, desatarese, o debrocharse algo...es la accion a la q se refiere.
+• dressing = el vestido, vendaje...
+• To come undone = deshacer, pero si es vestimenta es como decir .. vamos desvistete.
+• whenever you're ready = cuando éstes listo
+• so whenever you're building = así que cuando estés construyendo
+• so whenever you're talking = así que cuando estés hablas, así que cada vez que hablas
+• Your goal is to find = su Objetivo es encontrar..
+• tend to shine(cha-in) = tienden a brillar.
+• weaknesses(wik-neses) = debilidades, puede usarse tambien como decir q hay una "observacion(es)". aciendo incapie en el error moderadamente.
+• fellow = Compañero(a)
+• I’m a huge(jiusht) advocate(ad-vokit) for using the right tool for the job.= Soy un gran defensor del uso de la herramienta   adecuada para el trabajo.
+
+• everybody can cook = todos pueden coscinar.
+• You can use Anything as a hammer(jámmer) = Puedes usar cualquier cosa como martillo.
+• it's amazing = es asombroso.
+• is awesome(ósom) = es impresionante.
+• If you haven’t already, read Parts 1, 2, and 3 = Si aun no ha leido las partes 1, 2, 3.
+
+• We need to approach this problem step by step = Necesitamos abordar este problema paso a paso.
+• it was really a joint approach = fue realmente un enfoque en conjunto.
+
+• Approachable = Accesible.
+• he goes beyond all these other approaches = El va mas Alla de otros enfoques,
+• approaches (a-proochess) = Enfoque.
+• approach = el enfoque, acercarse a, aproximación , abordar..
+
+• error is raised = este error se produce / este error es generado.
+• Please feel free to ( raise your hand)! = Por favor, siéntase libre de levantar la mano.
+• It doesn't raise an answer for my question? = ¿No genera una respuesta para mi pregunta?
+• it does not raise an exception. = no plantea, no da, no resulta ... una excepción.
+• They did raise the price = Ellos subieron el precio..
+• Let's do a consciousness-raiser on this = Hagamos un levantamiento de conciencia on this.
+• Advice on how to Raise your score: Consejos en como Mejorar su puntaje.
+• raise = lift or move to a higher position or level.
+• raise your hands = levanta tus manos
+
+• hung up = colgar, de cuelga el telefono = hung up the phone
+
+• chance(shans) = Oportunidad.
+• lastly(lastli) = finalmente.
+• huge(jiusht) mount of data = una enorme cantidad de datos 
+• it's been around for long time = ha existido por mucho tiempo
+• rubbish = basura.
+• But you have to sort of face reality = Pero tienes que afrontar la realidad
+• Yeah, if it comes out! = Si si es q sale!
+• look forward to that paper = espero con ansias ese paper.
+• I was really corious about that = Tenia realmente curiosidad sobre esto.
+• have thought(hav Zooth) = ha pensado.
+• tractable = tratable, manejable.
+
+• I guess recently =  Supongo recientemente,
+• The main differences:
+   'Problem' is the general word./ 'Issue' is more diplomatic and less negative. / 'Trouble' is uncountable.
+• How do you identify an issue? = ¿Cómo identifica un problema?
+• can you replay your issues? = ¿Puedes reproducir tus problemas?
+• issue = un tema o problema importante para debatir o discutir.
+• take out your issue = saca tu problema.
+• print out your issue = imprime/presenta tu problema.
+• Has anyone figured out how to solve this problem = ¿Alguien ha descubierto cómo resolver este problema?
+• It's Time to Rethink enclosures = Es tiempo de repenzar los recintos(significa las cosas acumuldas separadas del resto las q elijes por algo en un lugar cerrado o en una caja.
+• high walled enclosure = recinto de paredes altas.(Espacio comprendido dentro de ciertos límites (muros, vallas, etc.))
+• under closure = bajo cierre.
+• ubiquitous (yoobikuadas-yo?o'bikw?d?s)= ubicuo (Que está presente en todas partes al mismo tiempo.)
+  explain(iksplain): Que está presente en muchos lugares y situaciones y da la impresión de que está en todas partes.
+• take off = despegar
+• Eigenvalues and Eigenvectors = Valores Propios y Vectorios Propios.
+• earn = ganar, win
+• Due Date = Fecha de Vencimiento.
+• trend = tendencia 
+• explanation = explicacion, descripcion.
+• scattered = dispersado.
+• I just wondering what is the problem? = solo me pregunto, cual es el problema?
+• If you’re wondering = Si te estas preguntando..	/ where to begin your Python journey = por donde empezar tu viaje a Python
+• I wonder if he read them concurrently. = Me pregunto si los leyó al mismo tiempo.
+• I was wondering, why radio controlled cars and planes etc = Me preguntaba, por qué los coches y aviones controlados por radio, etc
+• wonder = preguntarse, maravillarse, asombrarse.
+
+• assertion  = afirmacion.
+• Grab your copy now.
+• shape = forma.
+• dirt = suciedad.
+• someone in a costume = alguien disfrazado.
+• could be anything = podría ser cualquier cosa.
+• whoever you are = quienquiera que seas
+• whoever it is = quien sea q sea.
+• Success is like being pregnant; everyone congratulates you but no one knows how many times you got fucked. = 
+El exito es como estar embarazada, todo el mundo te felicita, pero nadie sabe cuantas veces fuistes foyada.
+• you are saying, that my job can suit to me, as my convenient, in my spacetime, but have to be related directly with my job, of course. = estás diciendo, que mi trabajo puede adaptarse a mí, según mi conveniencia, en mi espacio-tiempo, pero tiene que estar relacionado directamente con mi trabajo, por supuesto.
+• whichever suits you and whichever is more efficient = lo que más te convenga y que sea más eficiente.
+• my job it suit to me = mi trabajo me queda bien.
+• my job can suit to me = mi trabajo puede adaptarse a mi
+• to suits you = a tu medida, lo q se acomoda a ti, se adpate a tí.
+• suits = es como trajes o un conjunto de 
+
+• vis a vis ourself = cara a cara nosotros mimos.(expresion calco frances)
+• Jessica came into the kitchen = Jessica entró en la cocina
+• come = moverse o viajar hacia.., viene, va hacia, 
+• custom code = codigo personalizado.
+• come either from your custom code
+• either way =  de cualquier manera..
+• either party = cualquiera de las partes.
+• either or = Cualquiera o
+• within  = dentro de...
+
+• outcomes = resultados.
+• evil = malo
+• hierarchy(Ji-erarki) = jeraquia
+• a trade-off between objectivity and relevance = un compromiso entre objetividad y relevancia.
+• why would you even bother = ¿Por qué te molestarías?
+• the gambler = los jugadores (Kenny Rogeres)
+• islands in the stream = islas en el arroyo. (Kenny Rogeres & Dolly Parton)
+• come = pasado -> came
+• Jessica came into the kitchen = Jessica entró en la cocina
+• come = moverse o viajar hacia.., viene, va hacia, 
+• custom code = codigo personalizado.
+• come either from your custom code
+• either way =  de cualquier manera..
+• either or = Cualquiera o
+• meanwhile = mientras tanto.
+• even if it doesn't point = aun si es no apunta / incluso si no apunta.
+• you've seen me at my best moment= me has visto en mi mejor momento.
+• as an aside = como un aparte...
+• advertisement (advertaizment) = anuncio publicitario.
+• advertised = anunciado.
+• inquiry = consulta
+• Only those that have been Submitted = Solo aquellos que han sido enviados...
+• very bleeding(bliiding) edge = muy de vanguardia.
+• rather than 2 dollars = en ves de 2 dollares
+• you have judged correctly = has juzgado correctamente
+• include, but are not limited to, the following = incluyen, entre otros, los siguientes.
+• Willingness to learn. = disponibilidad de aprender.
+• to challenge the product = para retar el producto, es decir una evaluacion exaustiva.
+• safe confidence = coanfianza segura.
+• can you keep this trust = puedes mantener esta confianza.
+• confidence = confianza (confidencia de algo). 
+• Middleware = software that acts as a bridge between an operating system or database and applications.
+• nested loop = bucle anidado.
+
+• I'm encouraged you = te animo a...
+• this is an absolutely encourage = y esto es absolutamente alentador.
+• we were encouraged by the success of this venture = nos animo el exito de esta empresa.
+• you are encouraged to look = estas animado(motivado) a mirar..
+• encouraged to = Animado/a
+
+• because canada has not had an all program draw yet = porque canadá aún no ha tenido un sorteo de todos los programas.
+• climb = accion de subir y trepar.
+• expect that to climb significantly = esperar que suba significativamente.
+• program draw = sorteo del programa.
+• under the current threshold = por debajo del umbral actual.
+• the current  = actual...
+• threshold = umbral..
+• leave = dejar, salir
+• give  up his band= renunciar a su banda.(present simple) 
+• given up his band = renunció a su banda.(pasado)
+• giving up his band = renunciando a su banda. (presente continuo)
+• how can you become = como puedes convertirte..
+
+• settlement =Asentamiento, establecimiento 
+• endeavour  = esfuerzo..
+• It's more like hairy = es mas como peludo, magnifico, es una epresion..
+
+• quite often = muy a menudo,
+• ...sensors, remote controllers, so on and so forth = ...y así sucesivamente.
+• it's not uncommon = no es raro..	(uncommon  = poco comun)
+• you can make sense out = puedes tener sentido
+• you can make sense out of the API = puedes tener sentido a la API / puedes ecnontrarle sentido.. . 
+• allocated = asignado.
+• Simple ideas which happily = ideas sencillas/simples Que felizmente...
+• Models pull the preceding concepts together = Los modelos unen los conceptos anteriores.
+• wristband or activity tracker = pulsera o rastreador de actividad.
+• The overall provisioning = el aprovisionamiento general..
+• Bearer layer = capa portadora.
+• are addressed towards one or more elements = es direccionado hacia uno o mas elementos.
+• where tens,hundreds = decenas , cientos.
+
+• Besides that core = Ademas ese nucleo..
+• Turn advice from = expresion aproveche, reciva consejos de. 
+• practitioners = profesinales, practicantes de la materia.
+• Turn advice from world-class practitioners = arpoveche los consejos de los profesionales de clase mundial.
+• investments would be returned after four months unless a rollover was requested = las inversiones se devolverían después de cuatro meses a menos que se solicitara una renovación.
+• roll over  = darse vuelta.
+• rollover data = datos de transferencia
+• other benefits in return for the proctor’s willingness(disponibilidad disposición)= o Otros beneficios a cambio de la disponibilidad de supervsar
+• willing = dispuesto a una accion.
+• pedro's car is to big = el coche de pedro es demasiado grande
+• It is the student’s sole responsibility = Es la responsabilidad exclusiva/unica del estudiante.
+• It is the students sole responsibility = Es responsabilidad exclusiva de los estudiantes
+• appears on the student’s transcript = aparece en los expedientes del estudiante.
+• the course roster = lista de cursos.
+• Course Withdrawal = retiro del curso.
+• your attempted credits = intento de creditos.
+• Program Advising Team = Equipo de Asesor del Programa.
+• a specific course up until = un curso especifico hasta 
+• course schedule. = calendario de cursos.
+• hard work will pay off! = el trabajo duro dara sus recompensas
+• and you have deferred = y ud ah sido diferido
+• forecasting  = prevision
+• lasts = tiene una "duracion" , • The JS Bootcamp lasts 20 weeks. = tiene una duracion de 20 semanas.
+• sales pitch = como a un tono sabor a venta.. es una expresion,
+
+• can be quite helpful. = puede ser bastante(quite) util(helpful)/ puede ser de mucha ayuda.
+• and none of the = y ninguno de los....
+• leaked = filtrado-(make a secret information public)
+• touchdown = el aterrizaje
+• non-breaking change = cambio inquebrantable (un cambio estricto solido)
+• scholarship = beca
+• tuition fees = Pagos Cuotas de matricula.
+• fees agreed(pasado) = honorarios acordados.
+•Can we get an agreement for signatures written up? = Podemos llegar a un acuerdo para la firma escrita arriba? (en un correo)
+• signature = firma (la firma, la sintonia)
+• Would I can sign now?¿Podría firmar ahora?
+• the signature of a senior manager = la firma de una alto directivo.
+• I agree to abide by the Privacy Policy=Me comprometo a cumplir con la política de privacidad
+• ...and agrees to = se compromete / esta de acuerdo.
+• two-thirds the cost = 2 tercios del costo
+• weakly = enclenque, flaco debilucho
+• treason = traicion
+• Thinking outside the box is better than burying your head in the sand...
+• on their behalf (onder bi haft)  = de su parte.
+• an app to act on their behalf = una aplicacion para actuar en su nombre.
+• messages passed back and forth between them
+se mandaban mensajes el uno al otro
+passed back and forth
+• pasó de un lado a otro
+pasa adelante y atras
+• get passed over
+ser dejado de lado ; ser ignorado ; no ser considerado
+• as the years passed
+a medida que pasaban los años
+con el paso de los años
+• the rain had passed
+había dejado de llover
+• they passed by unheeding
+pasaron sin prestar atención
+• words passed between them
+  intercambiaron algunas palabras (fuertes)
+• every time something new opens.
+  cada vez que se abre algo nuevo.
+• Much of this mass is lost but some is passed back to the original star
+  Mucha(o Gran Parte) de esta masa se pierde pero parte se devuelve a la estrella original.
+• get passed over = ser dejado de lado ; ser ignorado ; no ser considerado
+• login = inicio de sesión 
+• gets passed back = se pasa de vuelta
+• when the login gets passed back = cuando el inicio de sesión se devuelve
+• a pretty simple, stuff so far = cosas bastante simples hasta ahora.
+• fetch and merge  = buscar y fusionar / buscar y empalmar
+• fetch and merge a file = Recuperar (Obtener) y Fusionar un archivo.
+• fetch = go get
+• placeholder = marcador de posicion.
+• large of developer are wrong = muchos desarrolladores estan equivocados.
+• bla bla bla, I guess = bla bla bla, Eso creo, supongo
+• Its not very long, Its only 80 lines of custom styles = No es muy largo, solo tiene 80 líneas   de estilos personalizados.
+• Im going to grab another snippet of code = voy a grabar otro pedazo de codigo.
+• idle = (verbo), sped time doing nothing, ocioso, vano, pasado, 
+• Uncaught ReferenceError = Error de referecnia no detectado  Uncaught(anKat) = no atrapado
+• for a cup of reasons = por una serie de razones!
+• inspired = inspirado.
+• quiet sometimes = tranquila a vece.
+• and that was hard = y eso fue duro
+• came face to face with a reality = se encontró cara a cara con una realidad...
+• brief moment = breve momento.
+• up-and-down = con altibajos.
+• So thats make sents = es decir esto tiene sentido..
+• If I want to check out a new branch = Si quiero ver una nueva rama,
+•  it's a fancy way of saying = es una forma elegante de decir...
+• outliers = valores atipicos. (aout-lairs)
+•  the chosen = el elegido.
+
+• STATEMENT OF ACCOMPLISHMENT = declaracionde cumplimiento
+•he statement = su declaracion "bla bla.."
+•his statements = sus declaraciones...
+• statement/s = declaracion/es
+• Freelance Contract = contrato autonom.
+• Is to try things out yourself = es probar las cosas por ti mismo
+• Get start = vamos a cmenzar
+• Get started = empezar
+• Officer Deshaun wants to plot the average number of hours worked per week for him and his coworkers. 
+El oficial Deshaun quiere trazar el número promedio de horas trabajadas por semana para él y sus compañeros de trabajo.
+• bins = contenedores
+• scatter plot = grafico de dispersion.
+• kidnappers = secuestradores / 
+• Recall = recordar. a dif de remeber se usa cuando verbalizas un recuerdo.
+• Laura wants to do = Laura quiere hacer.../ She wants to present = Ella quiere presentar...
+• wants to do some background research = quiere hace una investigacion de antecedentes..
+• Workshops = talleres
+• Scholarship = Becas
+• set = conjunto, set , juego, serie, grupo
+• were suddenly transformed = fueron transformados repentinamente(de repente).
+• suddenly = repentinamente.
+• upended = volcado.
+• press inquiries = preguntas de la prensa.
+•  underpinning = apuntalando
+• squandered = derrochado
+• squandered away = desperdiciado
+• worth it = vale la pena
+•  with warm regards = con un cordial saludo
+• Full steam ahead = a Toda Maquina / a todo vapor!
+• as opposed to other universities = a diferecnia de otras universidades
+• swift = rapido..
+• depth = profundidad.
+• quieter = mas tranquilo
+• Which suspects purchased pet supplies before the kidnapping? = 
+¿Qué sospechosos compraron artículos para mascotas antes del secuestro?
+• 80% of success is commitment = 80% del éxito es compromiso.
+• Invoice = Factura
+
+• but I hopefully it's function well. = pero espero que funcione bien
+• but I hopefully this function well. = pero espero que esto funcione bien.
+• but hopefully it's worth it. =  pero espero que valga la pena.
+• So I do find this much much more challenging to teach, but hopefully it's worth it. = 
+  Así que encuentro esto mucho más desafiante de enseñar, pero espero que valga la pena.
+• hopeful expectation = expectativa esperanzadora.
+
+• to merge the contents = fusionar los contenedores.
+• Inner workings of lists = funcionamiento(como trabaja) Interno de las lista
+• craft = arte, oficio, skill.
+• boundaries = fronteras
+
+• app developers struggling to try to code = desarrolladores de aplicaciones que luchan por intentar codificar
+•  Struggling = luchando
+• that's pretty tough = eso es bastante duro.
+• pretty much over by now  = ya casi ha terminado por ahora
+• decision making = Toma de decisiones
+• worth   = valor.
+• journalist = periodista
+
+• being mentally ill (voz = ell), = Estar mentalmente enferma,
+• ..those being small chunks = esos son pequeños trozos
+• being on time = estar a tiempo.
+• as well as being = ademas de ser..
+• The account information is now being held in a class, rather than a structure.:La Informacion de la cuenta se encuentra detenido en una clase, a diferecnia de una estructura.
+• Pretty much as far as any ....living being can recall = Casi hasta donde puedo recordar... cualquier ser vivo
+
+• madness = locura (el estado de enfermedad mental, especialmente grave.)
+• jeopardize = poner en peligro, <comprometer
+• Snippets = fragmento, retazo, pedazito, 
+• even so if you know what if this doesn't work? = aun así si tú sabes que si esto no funciona?
+• still, you know if it doesn't work = aun así, tú sabes que si no funciona
+• even you know = incluso tu sabes
+• deserve = eres merecido, mereces.
+• deserve what you want = mereces lo que quieras
+• He could not fairly be accused of wasting police time = no podía ser acusado de manera justa de estar perdiendo el tiempo con la policia.
+• fairly =  bastante,justamente,acusado.
+• applications are left behind like microsoft store = las aplicaciones se quedan atrás como microsoft store
+• leaps  = saltos, dar un salto,
+• With the huge leaps forward in Javascript usage = Con los grandes avances en el uso de JS.
+• VBScript is a waste of brain power = Vbs es un desperdicio de poder cerebral
+• Basicly, its ignorance in a nutshell = Basicamente es ignorancia en pocas plabras.
+• IntelliSense  = es la función de autocompletado
+• Sniffer = analizador de protocolos
+• that'll clutter things up = va desrodenar las cosas.
+• looking under the hood of .. = mirando debajo del capód...
+• look under the hood = to examine the engine of a car; to check the oil, water, and other such routine items associated with the engine of a car. 
+• to ship = exportar...
+• LiderShip = Liderazgo
+• if u have already installed python before  = si ya has instalado Python antes
+• that will take a little while = eso tomará un poco de tiempo.
+•  i'm have spoken = he hablado
+•  it's doesn't ever come into contact = nunca entra en contacto.
+• system wide = todo el sistema
+• complete mess = completo desastre
+• Investment Adviser = Asesor de inversiones
+• can advise you = puede asesorarte/aconsejarte.
+• biggest weakness = mayor debilidad
+• investor = inversor
+• forbidden = (adj)prohibido(a)
+• affair = asunto
+• to enact = para promulgar
+• to hold open = Mantener abierto(a)
+• for hearings and legislation = para audiencias y legislación
+• in-depth = a fondo.
+• spanning = abarcando (abarcar)
+• branch = rama, (la)ramificacion.
+• several= varios, distintos.
+• witness = testigos.
+• dream = soñar • dreamt of = soñado(da) (pasado)
+• heaven's door = puerta del cielo
+• heaven = Cielo.
+• to improve readability = para mejorar la legibilidad
+• improve = mejorar.
+• thread = hilo
+• by spinning that this is a threat = es como mintiendo, paseando q esto es una amenaza.
+• threat = amenaza.
+• afraid = asustada(do)
+
+• dash = es el desktop o sobre todo lo que esta soportado.
+• Study at your own pace = estudia a tu propio ritmo.	pace = ritmo de..
+• At this pace, we will reach the city in two hours = A este ritmo, llegaremos a la ciudad en dos horas.
+• Funding(fondos) your study = financiando sus estudios.
+• Do I meet the language requirements? = cumplo con los requisitos del Idioma?
+• If we are unable to issue you an offer = no podemos emitirle una oferta.
+• budget = presupuestar.
+• You can find out = puede averiguarlo..
+• Advisory Officer = oficial.asesor
+• further enquiry = más consultas / consulta adicional.
+•  Your enquiry will be processed and be answered shortly  = Su consulta será procesada y será respondida a la brevedad.
+• enquiry letter = carta de consulta.
+• inquiry success = Consulta exitosa.
+• won't be any further development support for this libraries = no habrá más soporte de desarrollo para estas bibliotecas
+• Forename = nombre (de Pila) • SurName = Apellidos. 
+
+• sitting an exam once = dar(hacer) un examen una vez.
+• You can defer = puede diferir(aplazar)...
+• Undertake = emprender, comprometerse, encargarse de.
+• Time commitment = compromiso de tiempo.
+
+• tuition = (la) matricula, (la)enseñanza, (la)Instrucción.
+• recruit = (la)recluta, (verb)reclutar.
+• Our Scholarships = nuestras becas.
+• fellowship = Compañerismo.
+• fellow = (el) compañero, (el)miembro.
+• are outlined clearly = se describen(deliniado) claramente.
+
+
+• carry on = continua (sobre la marcha..)
+• carry out = llevar acabo.
+• plethora = pletora (Abundancia excesiva de una cosa)
+• provided = proporcinado, proveido
+• tailored = a medida, entallado
+• gather (verbo) = reunir, recolectar, recoger
+
+• you deepen your programming skills = Profundizas tus habilidades de programación
+• underpins = apuntala (apuntalar), dar firmeza a algo es apuntalar.
+• towards = hacia, para
+• are compulsory = son obligatorios.
+• Currency = moneda
+• do it again = haslo otra vez / de nuevo.
+• pretty basic = Bastante básico   • pretty = bastante, (adverbio = que modifica a un verbo).	
+• don't worry you forward = no te preocupes adelante
+• grassroots = the most basic level of an activity or organization. = El nivel más básico de una actividad u organización.
+• grasshopper = saltamontes
+• pullbacks = retrocesos (ej: un acto de retirar tropas.)
+• surged = surgió.
+• heading into the halving = dirigiéndose a la mitad. 	• heading into = direccion, rumbo.
+• swift = rapido (fast, quick).  • swiftly = rapidamente.
+• plugged = enganchado   • this connector you have plugged  in = este conector que ha enchufado
+• leaning = propension (propensity, tendency)
+• be quiet = silencio   • quiet = tranquilo(a).
+• the quiet hour = la hora tranquila
+• creep me out = me asustas.
+
+• think = pensar, creer. 	• tought = pensado(a)
+• beyond borders = más allá de las fronteras=  meaning ‘outside the limits’
+• and beyond = y más allá..
+• there's something beyond what we can sense = Hay algo más allá de lo que podemos sentir
+• don't incremented beyond one = no incrementara mas alla de uno.
+• instead of that = en lugar de eso.
+• carpetbagger = aventurera, aventurero
+• briefly = brevemente
+• loud = fuerte, claro.
+• can you talk(tok) more loud = puedes hablar mas alto.
+• this place are more tight(tait) = este lugar es mas estrecho.
+• craft = arte, skill, oficio.
+• crafting = elaboración.
+• aún más cerca = consciente de ello
+• even closer = aún más cerca
+• is fully = es completamente.
+• come out = salga.
+• breakout = salir, escaparse (leave, get out).
+• an outbreak = un brote.
+• just won breakOut = 
+• atomic bomb shleter = bomba atomica de refugio.
+• theme = temas-
+• nozzles = boquillas
+• stages = etapas
+• regard = considerar
+• regardless = sin importar,(sin prestar atención a la situación actual; a pesar de las circunstancias imperantes.)
+
+• rather = más bien, bastante, algo,  
+• upon = sobre (de un tema no fisicamente), a (Preposición)
+• underlying = subyacente
+• EARLY ADMISSIONS DEADLINE = plazo de admision anticipados-
+• English proficiency = Dominio de Ingles  • proficiency in english = Habilidad en el Inglés (a high degree or skill);
+• Amendments  = Enmiendas
+• I almost(casi) forgot! = Casi lo olvido.
+• save your spot by May 28th = Guardar su bacante/lugar p mayo28
+• Expectations and Goals= Expectativas y objetivos
+• desire a more streamlined course = deseo un curso más rapido (sin resistencia).
+• arrange = organizar
+• arrangement = arreglo, disposicion acuerdo.
+• Greater expectation =Mayor expectativa.
+• study schedule = horario de estudio. ( schedule = calendario, programa, horario)
+• taught  = enseñado/ enseñó.
+• Ask any clarifying questions to me if there's a strategy that I've taught you and you're not clear. = 
+  Hazme cualquier preguntas aclaratorias si hay una estrategia que te he enseñado y no estás claro.
+• ask any clarifying questions to me = hazme cualquier preguntas aclaratorias
+• pratice, practice it until you have mastered it = practique, practique hasta q Ud lo domine.
+• and so... = porlo tanto...
+
+• They are know in advance = ellos saben de ante mano,
+• fee in advance = tarifa por adelantado.
+
+• trap answers = trampa de respuestas.
+• paraphrasing = parafraseando.
+• languages = idiomas.
+• how to skim and scan through = cómo hojear y escanear.
+• accurate answer = respuesta precisa.
+• sentences = frases..
+• in regards to = en lo que respecta a...
+• advice = consejos.
+• adjustments = ajustes.
+• Dying to hear = mueriendo por escuchar.
+• misconception = Idea Equivocada.
+• ..and so forth = ...etc
+• www.gramatically.com = permite corregir la gramatica muy util el google doc tambien lo corrige.
+• outweigh  = pesa mas que.
+• three hundred Thousand hundred nineteen = 300,119
+• three hundred Thousand nineteen = 300,019
+• two Thousand nineteen = 2019
+• to early two Thousand = a principios de dos mil
+• Academic Advisor = Asesor academico/ca.
+
+• now i'm going to go over the test section descriptions for the reading section = 
+ = ahora voy a repasar las descripciones de la sección de prueba para la sección de lectura
+•  to go over = <accion de > repasar, revisar
+
+• across the board = en todo ambito
+
+• So sometimes students
+• get somewhat concerned when they see subject or questions that they dont know, anything about
+ = Así que a veces los estudiantes, se preocupan un poco cuando ven temas o preguntas que no sabes, nada sobre
+• subjective = based on or influenced by personal feelings
+• entry-level subjects = Asignatura de nivel de entrada.
+• This controversy may well validate J.B.S. Haldane’s wry observation that the universe is “not only queerer than we sup- pose, it is queerer than we can suppose.”
+This delicious controversy, which delights(encanta) theoretical physicists but boggles(..perturba) the mind of mere(mero, simple) mortals, is the subject of my recent book, Hyperspace.
+• to be subject = estar sujecto
+
+
+• get somewhat = <accion de >obtener algo.
+• concerned  = preocupado/da.
+• get somewhat concerned = se preocupan un poco,
+
+• go over = voy a seguir...
+• answer = de la accion de Responder.
+• four equally graded parts = 4 partes igualmente graduadas.
+
+
+• A (Adj Calif) Professional, (detalles)applying to register = Un Profesional que este solicitando un registro...
+• A non-EU trained health professional = Un Profesional No formado por la UE.  • trained = entrenado, Capacitado, formado,  • non-EU trained health = adjetivo calificativo, del sustantivo = Professional, applying to register = que solicita registrarse
+
+• Midwifery = partera.
+• Council = Consejo.
+
+• data analytics to assess processes = Datos Analíticos para evaluar procesos.
+• assessed = jusgado / evaluado
+• Assessment deadlines = plazos de evaluacion.
+• Assessment = evaluacion.
+• Assessment possible = evaluaciones posibles.
+• Applicants are assessed according to the following six (6) factors : Los Aplicantes son evaluados de acuerdo alos siguientes 6 factores:
+
+• the depth = profundidad •deep = profunda/do
+• challenge  = desafio, reto..
+• challenging = desafiante..
+• insight = vision, percepcion..
+• peer-review = revision de pares.
+• Grader = persona o cosa que Califica = Calificador. 	• Grading = calificacion.
+• Passages = Pasajes.
+• Tip = sugerencia   • Advaice = consejos.(asesoramiento)
+----------------------------
+• What you means? I don't have just even a little time = ..? No tengo ni un poco de tiempo.
+• What you means? I don't have even a little time = ..?, No tengo ni un poquito de tiempo.
+• So you've got to remember = asi que tienes q recordar.
+
+• buttoned or fastened or tied = abotonado o Pegado o Atado.
+• newbies = novato
+• astounding! = Asombrosas.
+• crafting = elaboracion.
+• just won breakOut = acaba de ganar un premio.
+• assignment = Asigancion
+• Shame = verguenza.
+• Vacum = Vacio
+• taught workshops = Talleres Impartidos.
+• Coach = entrenador.
+• trait = rasgos, caracteristicas.(elrasgo = feature, trait, characteristic, streak, quirk, vein)
+
+• Duties = deberes (eldeber = duty, obligation, due, task, job, ought)
+• job seeker = a person who is unemployed and looking for work.
+
+• Other skills are learned and we develop these skills over time = 
+  Se aprenden otras habilidades y las desarrollamos con el tiempo.
+• trait = Rasgos Caracteristica (elrasgo feature, trait, characteristic, streak, quirk, vein)
+• Did you know that the average U.S. worker today holds 10 different jobs before age 40?.
+  ¿Sabía que el trabajador estadounidense promedio de hoy tiene 10 trabajos diferentes antes de los 40 años?
+
+• ..and skills for the job market as well = y habilidades para el mercado de trabajo tambien..
+• That we held the 100th Pie & AI last Friday = que celebramos el 100vo Pie de AI el viernes pasado.
+• I'm proud to announce = Me enorgullece anunciar
+• advantage/dis-advantage = ventajas / desventajas.
+• Please, absolutely, take advantage of that = Por favor, absolutamente, aprovecha eso.
+• as soon as you apply = Tan Pronto como apliques/Solicites.
+• Dongle = Adaptador o llave, puede se un USBcon blethhot
+
+• earning a valuable degree ..= Obtener un valioso titulo..
+• helps move your career forward = le ayuda a avanzar en tu carrera.
+• high school qualifications = Calificaciones de Secundaria.
+• Whether you have ... = Ya sea/ Si tiene, que tenga calificaciones de secundaria o experiencia trabajando.. 
+• Learn more about performance-based admission = admision bsado en el rendimiento.
+• performance-based = basado en el rendimiento.
+• $330 per credit hour for most = 330 $s x credito para la mayoria.
+• Attainable and flexible = Alcanzable y Flexible.
+• No need to start over = No necesita empezar de nuevo.
+• TROUBLE = El Problema
+• Lifetime Access = Acceso de PorVida.
+• Bearer = Portador
+• I have no clue = NO tengo ni Idea.
+• outbreak = brote, estallido, epidemia
+
+Finanzas:
+• survival = supervivencia.
+• squeeze = exprimir
+• SSR = short sale restricction. = restricción de venta corta.
+• profits = ganancias.
+• bunch = manojo-
+• quiddity = escencia.
+• vessels = vasos.
+• hubris = arrogancia
+• reached=alcanzado
+• advice=Consejo
+• reward=recompensa
+• insights = perspectivas, entendimiento
+
+• sneeze = estornudar.
+• so if you were to login to your user account = Así que si tuviera que iniciar sesión en su cuenta de usuario
+• keep the code 'dry' = dont repeat yourself.
+• squiggly = no tiene traduccion es un '~' o normalmente llamdo 'tilde'
+• breakdown = descomponer, desglosar,  The idea is to brakdown a project into several modules( or apps) = la idea es descomponer un project en varios modulos.
+• because it's like worst of think =porque es como lo peor de pensar
+• I hope you are having a save time = Espero que estés ahorrando tiempo.
+• I'm stop rambling guys = voy a dejar de divagar muchachos.
+• tier support = soporte de Nivel.
+• three-tiered = de Tres Niveles.(2022)
+• I spent 15 yeays of my career in oil [ spent = gastado / spend = gastar (2022) ]
+• and later in my career 'i did start up' = y más adelante en mi carrera comencé (2022)
+• how you pull data = como extraes los datos. (2022)
+• that's been really remarkable about being able to work at intel. = eso ha sido realmente notable sobre poder trabajar en Intel. (2022)
+• even through =incluso a través (2022)
+• how do you apply/get analytics to it= cómo se aplica/obtiene análisis (2022)
+• if you have the hardwired system = espresion si tienes todo el sistema montado... (2022)
+• unleashing (onlishing) = desatando (2022)
+• underplaying = subestimando  /  we underplaying it, right? = lo estamos subestimando, cierto?   (2022)
+• the key to having that be the cost effective, is having wireless = la llave p tener una rentabilidad (costo efectivo) es tenerlo inalmabrico.
+• isolate pocket = expresion como decir en una cuenta aparte..
+• You're not the only one about to have a sucky summer. = No eres el unico q ha tenido un verano asqueroso.
+• waiter = camarero
+• bunch = manojo.
+• un-weird = no es raro, extraño
+• weirdest(wird-dest) = más raro, mucho mas extraño.
+• weird(wiird) = extraño, raro.
+• swarm = enjambre
+
+• none of the code files = ninguno de los archivos de codigo.
+• ads = anuncios.
+• The Companies 'comes out supporting' human health = Las Empresas 'Salen Apoyando' La Salud Humana
+• the stakes have never been higher = La Apuesta nunca ha sido tan alta.
+• onward = adelante.
+• can china rise peacefully = Puede China Crecer Pacificamente, lo EU creen que no!
+• as wells as .. = .. así cómo ...
+• hence = por lo tanto
+• tied = Atado o Atado a o Vinculado
+• is tied to the specific folder= vinculado a un folder especifico.
+
+• Alright, enough UML for now! = okey es suiciente UMl por ahora.
+• sentences = frases, oracion
+• nouns = sustantivos (nombres q se refiere a cosas)
+• noun = sustantivo.
+a word (other than a pronoun) used to identify any of a class of people, places, or things ( common noun ), or to name a particular one of these ( proper noun ).
+• other than a pronoun = otra cosa que no sea pronombre.., aparte de ..., es una cosa contraira a la actual.
+• other than style classic music = diferente al estilo de música clásica / aparte del estilo de la música clásica
+
+• kind = tipo
+• disease = enfermedad
+• greenhouse = invernadero
+• arises = surge
+• whenever the snow fell it formed the ice = cada vez que la nieve caía formaba el hielo
+• Please install the 'Kotlin' extension instead! =¡x favor Instale la extensión 'Kotlin' en su lugar!
+• Finish setting up passwordless sign-in  =  Termine de configurar sin contraseña
+• Break free from your passwords = Liberate de tus Contraseñas
+• as well = Tambien,
+
+• snippet = a small piece or brief extract.
+• off-the-shelf = fuera de la plataforma
+• pretty much  = Mas o Menos.
+
+
+• deployed  =  implementarse
+• deployment  = implementacion
+• comprise = comprender
+• built-in library = biblioteca integrada
+• makes sense = tiene sentido
+• backwards, = hacia atras
+
+• ...you had to add a configuration... = tenia q agregar una configuracion...
+• ...required Assests are missing... = ..recursos activos requeridos/bienes que faltan...
+
+• nominate = and nominate is...y el ganador es...en Español es nombrar a algo.
+   NOTA: El término nominación o candidatura es un anglicismo usado por algunos para nombrar la parte del proceso de selección de un candidato para ser galardonado con un premio o una condecoración que suele asignarse mediante la votación de un jurado
+• sane= you are sane on this, eres cuerdo en esto, en Español = es estar bien de Salud.
+• Introduction = es hacer un resumen de una presentacion en Español = es poner algo dentro, o iniciar a alguien en un tema, nunca presentar a alguien. Nadie diría "Te introduzco a mi cuñado"
+• Argument = En ingles es discussion, argument, debate, dispute,
+• Apply= Postularse Aplicar = si se trata de un empleo o de un examen.
+• Attend = asistir a algo.., En español atender es "prestar atencion"
+• Actually = Realmente ("Actually" es realmente y no "actualmente")
+• Let's now look under the hood to see how the software goes about transmitting data so quickly.
+•To understand how it really works we need to look under the hood. = Para entender como realmente funciona, necesitamos ver como es por adentro.
+• Select your brand = selecciona tu marca
+• Where Bing Maps goes bust = donde BingMap se va a la quiebra.
+• advisor= tutor.
+• for never giving up on me = por nunca renunciar a mí
+• arrangement = arreglo , coordinacion.
+• Placement = Colocacion.
+• odd = impar
+• outgrowth = Consecuencia..
+• rewarding  = gratificante, provechosos, valioso, es una expresion.
+• Listening to critical feedback from someone you trust can be difficult, but ultimately it’s one of the most rewarding things you can do for your personal growth. The good times make a friendship enjoyable, the bad times make it meaningful. =
+   Escuchar los comentarios críticos de alguien en quien confías puede ser difícil, pero en última instancia es una de las cosas más gratificantes que puedes hacer para tu crecimiento personal. Los buenos tiempos hacen que una amistad sea agradable, los malos tiempos la hacen significativa.
+• What is panpsychic term for the situation where someone claims to have read a bunch of books but in reality, they just have gone through some blogs and shits without actually reading the book? =
+   ¿Cuál es el término panpsíquico para la situación en la que alguien dice haber leído un montón de libros pero en realidad, solo han pasado por algunos blogs y mierdas sin leer realmente el libro?	
+• Lying? = ¿Mentira o mietiendo.
+
+• What about the refunds? = ¿Qué pasa con los reembolsos?
+• You do not have to show that you have these funds if you have arranged employment in Canada : fund = fondos , arranged = arreglos
+• funds = fondos
+• Wow! Will people be impressed if I plagiarize these? = ¡Guauu! ¿La gente quedará impresionada si plagio esto?
+• What Data Scientists do in admittedly(admididle) rather fanciful terms = Lo que hacen los científicos de datos en términos bastante fantasiosos.
+• is briefed = es Informado.
+• caught = Atrapado/a..
+• we were gonna = ibamos a ..
+• off-the-shelf = fuera de la plataforma
+• pretty much  = Mas o Menos.
+• insight = vision..
+• i'm sorry is very awful = lo siento es muy horrible
+• I'm sorry, I'm the bad thing = Lo siento, soy algo malo
+• it just to remind a folks that the = solo para recordarle a la gente que el
+
+• The process is fairly straightforward = El Proceso es Bastante Sencillo..
+• build stuff= construir cosas..
+• build dummy projects = crea projectos ficticios.
+• so let's drive it = manejemoslo, you know the game...
+• built-in = incorporado, 
+
+• weakness and strength = debilidad y Fortaleza
+• besides that = aparte de eso, 
+• People remeber Who you are no matter what! = La gente recuerda quién eres sin importar qué.(matter = MErer)
+• Like your thought as our Hypothesis = Me gusta tu pensamiento como nuestar Hipotesis. (thought = Zoot, as = eas, Hypothesis = JayPotesis) (discussion = discoochung)
+• tombstone = Lapida Sepulcral. ('toom?stOn)
+• That Dash = ese guion.(daaSH)
+• stop wasting your time = Deja de perder tu tiempo.
+• Probabiblistic Language of thought Hypotesis? = Lenguaje Probablistico con pensamiento a Hipotesis. (thought = Zoot) (Hypothesis = JayPotesis)
+• fairly natural= bastante natural.
+• human judgment = Juicio Humano.
+• very weak = muy debil (antonimo very Strong)
+• tug of war  = tira y afloja (lalucha de la cuerda).
+• one-tenth = una decima.
+• average strand = Filamento promedio.
+• scalp = cuero cabelludo.
+• skull = craneo.
+• painless = sin dolor.
+• glance = vistazo.
+• chance = oportunidad.
+• Invoicing = Facturacion
+• tuition = matricula
+• External Enquirers = Consultas externas
+
+• worth what you put in? = Vale lo que pones?
+• is really not worth it at first sight(vista, mirar) = realmente no es importantes, a primera vista.
+•It took a while,(Me tomo un tiempo), but worth it, for the price,(pero vale la pena por el precio),  thank you  very much! = (muchas Gracias)
+•worthy = digno.
+• worth = valer / worst = peor
+• worst = peor / • worse = lo peor
+• ...and the food was worse = y la comida lo peor.
+
+• Difference between a sentence and a phrase?
+   Sentences  =  frases  =  significado de varias palabras.
+   Phrase       =  es un grupo de palabras q realizan un sgnificado c/palabra.
+   The difference for me is less about words and more about what represents a complete thought(pensamiento). A sentence is a complete thought and consists    of a set of words combined and sequenced by the rules of syntax.
+   
+    A phrase is a group of words that perform a function in a sentence or otherwise logically combine, but does not form a complete thought 
+• otherwise = de lo contrario. / de otra forma
+• changed slightly = Cambiado ligeramete..
+• other way = otro camino, otra manera,
+• away = distancia, Away if me.
+• Accommodations = Adecuacion , alojamiento.
+• assured = seguro = sure
+• everything is proofed several more times. = Todo probado varias veces más.
+• poorly = mal. (poorly understood = mal entendido)
+• upsetting = Molesto, upsetting you = molestandote.
+• towards me = Hacia Mi.
+• must not be biased toward =no debe ser sesgado hacia
+• To be Fair = para ser justos.
+• Fairness, Reliability and Validity = Equidad, Fiabilidad, Validez.
+• accomplishment (a kampliSHment)= el logro, el cumplimiento.
+• accomplished (acampliSHt) = realizado, logrado/a,consumado
+• accomplish = realizar.
+• Si sapis, sis Apis(Latin) = Si usted es sabio, sea una abeja
+• newbies		novato
+• that was a one mind blowing, talk = eeso es lo que una mente alucinante habla,
+• deluged = saturado/diluviar/inundar en/hacer diluvio.
+• one-trick pony= truco de Pony
+• scraping = el rapado/el chirrilo.
+• stuck = atascarse/ adherirse/ clavar/ poner.
+• because we are firmly settled into our umwelt = porque estamos firmemente asentados/sentados en nuestro medio(ambiente/entorno/medioAmbiente).
+• umwelt = medio ambiente
+• we don't miss it = no lo extrañamos.
+• we don't missed = no extrañamos.
+• nousefuls of air = nariz llena de aire.
+• bloodhound dog = Perro Sabueso.
+
+• My politics are short and sweet = corta y dulce...
+• Dragonfly (libélula en castellano)
+• seamlessly = perfectamente.
+• meaningful = significado.
+• strive= esforzarse.
+• lacks = carece, falta.
+• getting along with kotlin = llevandose bien con Kotlin.
+• It's not something made up = No es algo inventado.
+
+• submit a quote = enviar una cotizacion.
+• non-profit organizations = Organizaciones sin fines de Lucro.
+• brand = marca (de algun producto)
+• snippet = retazo.
+• smoothly = suavemente
+• Among the constraints= entre las restricciones/limitaciones ....
+
+• Quality asset = activos de calidad.
+• assets = bienes, activos.
+
+• We’ll refund any initial investment you made = Reembolsaremos cualquier inversion de inicial que hizo.
+
+• Una red neuronal convolucional = Este tipo de red es una variación de un perceptron multicapa, sin embargo, debido a que su aplicación es realizada en matrices bidimensionales, son muy efectivas para tareas de visión artificial, como en la clasificación y segmentación de imágenes, entre otras aplicaciones.
+• Estocástico = hábil en conjeturar, un programa estocástico opera utilizando métodos probabilísticos para solucionar problema cualquier desarrollo temporal, que pueda ser analizable en términos de probabilidad merece ser denominado como un proceso estocástico
+
+• afterwards = 'mas tarde' pude cambiar..., 'despues' pude cambiar...
+• If you think Trump didn’t know about the meeting you’re completely lost to the world = Si crees que Trump no sabía sobre la reunión, estás completamente perdido en el mundo.
+• The libraries are indeed in arduinoplugin/libraries = Las bibliotecas o Librerias de  hecho estan en...
+•  Indeed, we are just hoping Mueller will be able to prove it in court. = De hecho, solo esperamos que Mueller pueda probarlo en los tribunales.
+• for instance = por ejemplo.
+• nap = siesta.
+
+“Will” se usa al hablar de situaciones que ocurren en el futuro,
+cuando necesitamos pedir algo sobre el futuro.
+• I will be thirty next year. = Cumpliré treinta el próximo año.
+• They will have two extra meetings this afternoon. = Ellos tendrán dos reuniones adicionales esta tarde.
+• Will you tell Jane that we expect her for dinner? = ¿Le dirás a Jane que la esperamos para cenar?.
+
+“would” es la forma verbal en pasado de la palabra “will”.
+• Jack said he would finish the work the next day. = Jack dijo que acabaría el trabajo al día siguiente.
+• Ann said she would write us soon. = Ann dijo que nos escribiría pronto.
+• He hoped she would come. = El esperaba que ella regresaría.
+• people would have a dog tomorrow = la gente tendría un perro mañana.
+• Would you like some juice? = ¿Te gustaría un jugo?
+• Would you mind opening the window? = te importaría abrir la ventana?.
+• I’d (I would) like to have some milk. = Me gustaría tomar un poco de leche.
+
+• Would you can play a piano? = ¿Podrías poder tocar un piano?
+• would you play a piano? = podrías tocar piano?   (pregunta)
+
+La palabra “SHALL” se usa para expresar ideas relacionadas
+• You shall abide by the law = Debes acatar por la ley.
+
+El verbo "SHOULD" puede emplearse para expresar laprobabilidad en el futuro:
+El verbo modal "SHOULD" se usa para indicar obligación, deber o corrección:
+• You have saved a lot of money so you should buy a new car. =  Tú has ahorrado mucho dinero por lo que deberías comprar un nuevo coche.
+• She has worked the whole year so she should have holidays. =  ella ha trabajado todo el año, asi q ella debería tener vaciones.
+• You should play a piano! = deberias tocar piano.  (orden)
+• should be the fast food for us everyday = debería ser el desayuno para todos todo los dias.
+• you should do this = usted debe hacer esto!. (orden)
+• person should have = a persona debería tener.	(debería) sin Articulo.
+• The person should have = La persona debe tener	(debe) con Articulo.
+• The custom demanded that a person should have gifts for the child =   la costumbre exigía que    una persona tuviera regalos para el niño.
+•  to avoid overfitting = para evitar el sobre ajuste
+• Google believes that as much possible Activities should handle configuration changes manually to avoid killing and restarting the Activity (I didn't discuss this explicitly). = 
+Google cree que, en la medida de lo posible, las Actividades deben manejar los cambios de configuración de forma manual para evitar matar y reiniciar la Actividad (no discutí esto explícitamente).
+
+• I shoulda never messed around = nunca debi meterne en esto
+• ..so ideally(i dily) what you should end up = ..asi q la idea q ud debería terminar..
+• you should be looking out for = deberias estar atento..
+• should have = debe tener
+• so shouldnt be placing any code C sharp = por lo q no se debe colocar ningun Codigo C
+• you should
+
+
+• Override = anular, invalidar algo.
+• Custom = personalizado/dar, la costumbre
+• Customer = cliente, visitante
+
+• It was my custom to nap for an hour every day = 
+  era mi costumbre dormir una hora todos los días.
+• The old English custom of dancing around the maypole = 
+   la vieja costumbre inglesa de bailar alrededor del árbol de mayo.
+• foreground = primer-plano.
+• interface within an Activity = interfaz dentro de una actividad.
+
+• in a NutShell = significado sinonimo de "..en pocas palabras", "..en resumen", "..en resumidas cuentas"
+• Absent = ausente.
+• lintchecks = pruebas de compatibilidad
+• hence = por lo tanto..
+
+• RELATIONSHIP = relacion de..
+• keep our dreams alive = manten nuestros sueños vivos.
+• to sumit = entregar / enviar
+• to find out where = para averiguar donde..
+• refund = reembolsar
+• barely = apenas.
+• whenever = cuando...
+• reaches = alcanzar.
+• declined = rechazado.
+• round trip = viaje de Ida Vuelta.
+• However = sin embargo..
+• overcome = superar, vencer.. (para entender algo se usa).
+• in-depth = desarrollar, llevar, estudiar.....en profundidad...
+• looks crappy = Parece Horrible, espantoso..
+• As you can guess you can't use =Como puedes adivinar, no puedes usar
+• The CELPIP Test is fully computer delivered = La prueba CELPIP se entrega completamente por computadora
+• bloatware .-software whose usefulness is reduced because of the excessive disk space and memory it requires
+• bunch = manojo
+• if you've ever worked with node before = si alguna vez has trabajado con nodo antes
+• Little bit larger = Es un poquitito mas largo.
+• Use the MSFT_NetAdapter class instead = bla bla...Use la Clase MSFT_NetAdapter en su Lugar-
+• stand for = representar..
+• employer driven =Empleador.  opuesto a empleado.
+• farmer= agricultor.
+• recruitment stream= Flujo de reclutamiento.
+
+• duties=deberes
+• so if you have a really small straight forward function = asi que si ud tiene una funcion realmente pequeña.
+• underlying = Subyacente o fundamental.
+• You have the nerve to call others stupid Juan?  America is a country created by SETTLERS, not immigrants.  Immigration only happens once the country has been settled, duh.  
+America is a country created by EMIGRANTS you ignoramus.  We then let a controlled number of immigrants enter our country and assimilate.  This is what made America great.  An uncontrolled invasion of people who have no desire to assimilate and that want to "reconquista" large parts of this Nation are invaders.  Those that advocate for this invasion are traitors to America.?
+
+
+• Ways to say I have no money!:
+	i'm flat broke.
+	i'm skint.
+	i'm penniless.
+	i'm strapped for cash
+https://www.speaky.com/
+	
+	
+
+• unresponsiveness = insensibilidad o Falta de respuesta
+• Featured Story: Survey = Historia destacada: Encuesta
+• reach their target scores on their CELPIP Test = Alcanzan sus puntuaciones objetivo en su prueba CELPIP
+• managerial occupation = Ocupación directiva
+• Skilled Trades Program = Programa de Oficios Especializados
+• Which country issued your passport?
+• As of January 1, 2015, = apartir de 1 de Enero del 205
+• when <you get hired> = cuando <te contraten>.
+• Hire a provincial nominee = Contratar a un candidato provincial
+• It is now up to you if you = Ahora depende de ti si es que..
+• rod bearing = cojinete de rodamiento.
+• stretch = estiramiento,
+• disMake = desaliento, desason.
+• Stupid Channel, just make it up more Confused, and increase the fact of racism to every people in this country! very stupid! = ¡ estúpido canal, sólo lo hacen más confuso, y aumentar el hecho de racismo a cada pueblo en este país! ¡ muy estúpido!
+• earn points	= ganar puntos
+
+• drawback : inconveniente
+• ..but in fact that's not the case..... :-pero en realidad ese no es el caso
+• Hopefully someday  = esperemos q algun dia...
+
+• "A corollary to this is that you shouldn't assume everybody has to do a bit of everything." = "Un corolario de    esto es que usted no debe suponer que todo el mundo tiene que hacer un poco de todo."
+
+• Shouldn't your website be one, too? = ¿No debería ser uno de su sitio web, también?	
+• Should you wish to follow up on your request, please call (00971 6 8080 333) and provide your
+• Quality assurance should be part of all stages of the development = La garantía de calidad debe ser parte de todas las etapas del desarrollo.
+
+• deployment status = Establecer en el estado de implementación.
+• Broadcast interval and power consumption is closely related = Intervalo de difusión y el consumo de energía   está estrechamente relacionado.
+• still if you find out more details = aún si usted encuentra más detalles.
+• still = aún.
+• Legacy = Legado
+• achieved = alcanzado
+• achieve(achiv) more = lograr más.
+• This goal has been achieved. = Este objetivo se ha logrado.
+• the tilt of her head  = la inclinación de la cabeza
+• pay off = vale la pena
+• Dont be fooled = no se deje engañar...
+• Password must be at least 8 characters, with at least one upper-case and one number. = La contraseña debe   tener al menos 8 caracteres, con al menos una mayúscula y un número.
+• dust bowl = tazón de polvo.
+• even worse = peor aún.
+• impeached = sometido a juicio político
+
+
+• ride = paseo.(walk, ride, tour)
+• el VIAJE = trip, travel, journey, tour, voyage
+• el CAMINO = way, road, path, journey, track, trail
+
+Let's think about the search as a journey on a train = Pensemos en la búsqueda como un viaje en tren..
+•Scared = Miedo
+•Western = Occidente
+
+•Drop-off Point = Punto de entrega
+•Prompt Global Strike = Ataque(Strike) Global Inmediato/Rapido
+•The seller has shipped your order = El vendedor ha enviado su orden.
+•they just getting off the ground when 2009 hit and they basically just been dead in the water every sense = que ellos salieron de abajo para poder despegar como negocio pero basciamente mueriron en el intento (ahogados)
+• narrow = estrecho, limitado.
+• We've narrowed the possible  = Hemos reducido la posibilidad...
+• within a narrow scope = dentro de un alcance limitado.
+•Your score for this track is weighted as follows: = Su score para este track es ponderado como sigue:
+• you must earn a score of 70% in the Android Developer Track = usted debe obtener un score de 70% en..
+•i halved = reduciod a la mitad
+•no make sense = no tiene sentido??
+•Assume that water is poured into a spherical bottle at a constant rate = Supongamos que el agua se vierte en   una botella esférica a una velocidad constante.
+•male = masculino Female = femenino.
+•To accommodate late comers and to let people get started gradually = Para dar cabida a cualquiera que llegue   tarde y dejar que la gente a empezar poco a poco
+•And yet, this is often a trickier prospect than it might seem. = Sin Embargo, esto es a menudo una perspectiva   más complicada de lo que parece.
+• often = ..a menudo..
+• avarage = en promedio..
+
+•with who wants to talk? = con quien quiere hablar?
+
+•Reliability Assurance = Garantía de seguridad o fiabilidad.
+•Awaits newsletter = esperar un boletin de noticias.
+•you must be at least 18 years old = usted debe ser por lo menos mayor a 18 años de edad.
+•quite=bastante.
+
+•even before = incluso antes de..
+•race = carrera
+•Sure, market prices set by supply and demand = Sin duda, los precios del mercado son fijados por la oferta y demanda.
+•is a gross oversimplification =  es una  simplificación excesiva.
+•More or less stagnant salaries argue the opposite = Mas o Menos los salarios estancados argumentan l contrario.
+
+•Fuzzy Logic (fosi -logic)= La lógica difusa o Logica Borrosa o Logica Heurística.
+
+• among different apps = entre diferentes aplicaciones.
+• I get an amazing amount  = Tengo una asombrosa cantidad
+•sea waves = ondas del mar.
+•I'm jumping the rope = estoy saltando la cuerda.
+•and the fact ... = y de hecho...
+•beneath = Debajo.
+•hien the backpack = ocultando la mochila.
+•commit= cometer.
+•spread = difundir.
+•bounded = limitado.
+
+•i hope this spend help full .- Espero que esto le ayude por completo.
+•What it Takes? = Que se necesita?
+•nutShell = cascara de nuez.
+•Wigs = Pelucas.
+•the faster you move, the heavier you get = Cuanto ma rapido de muevas, mas pesado te pones.  teoria de gravedad de einsten
+•combine(combinar mesclar) harvester(cosechadora) gathers(reunir) = maq que recolecta la cocecha
+•iron stairCase = esclaera de metal
+•towards = hacia, para<
+•heat shield = escudo termico
+•has elapsed = ha Transcurrido
+•The gist is...., = Lo escencial es....
+
+•So, you want to be an Android developer? Good, you’ve come to the right place.
+  Whether you're a dabbler, = Aun si eres aficionado.
+
+•See you on Monday 27 February, but if you have any questions meanwhile, please simply reply to this email.
+•Many thanks
+
+
+•Flips = es un tiron, un clik arriba
+•Ridiculous Apply yourself : Riduculo aplicate mas!
+•Up-front Investment = Inversion Inicial.
+
+• The automatic programming Technologies themselves issue from another interdisciplinary frontier of computer science
+Las tecnologías de programación automatica se derivan de si misma de otras fronteras interdisciplinarias de la ciencia de la computación.
+
+• But for small computations simulation is indeed possible = … es de hecho possible.
+• Indeed = en efecto , Ya lo creo.
+• Amazing = asombroso
+• You’ll move forward in four stages = usted avanzara a cuatro escenarios o estados,
+• So far I have explored.. = Hasta ahora he explorado....
+• It's close to me? = Está cerca de mí.?
+
+
+• What about(abaut)(acerca de) your request for this job? = ¿Qué hay acerca de su solicitud para este trabajo? 
+• What above(abauz)(encima de) your request for this job? = 
+• Savvy with search engine techniques = Conocedor de técnicas de motores de búsqueda.
+• In depth knowledge and usage of Windows operating systems =  Profundo conocimiento y el uso de los sistemas operativos Windows.
+• with at least a year of full time experience performing help desk tech support = con al menos un año de experiencia a tiempo completo realizando servicio de asistencia de soporte técnico.
+• include dealing with technical problem and fault = incluyendo trato con problemas tecnicos y fallas.
+• What were your expectations for the job and to what extent were they met? = ¿Cuáles fueron sus expectativas para el trabajo y en qué medida se conocieron?
+• you can speak about your prior work history in detail and accurately. =  puede hablar sobre su trabajo previo en detalle y con presicion.
+• how much you earned and what your job entailed = Cuanto has ganado y de que ha tratado conllevado tu trabajo.
+• employment = empleo.
+• Interview Questions: Work History = Preguntas de la entrevista: Historial de Trabajo.
+• The best way to reduce the stress is to be prepared = La mejor manera de reducir el estres es estar preparado.
+• Job interviews are always stressful = las entrevistas de trabajo son siempre estresantes.
+• even for job seekers who have gone on countless interviews.= incluso para los solicitantes de empleo que han ido en innumerables entrevistas.
+• Multinational company is hiring computer support techs  = Compañia Multinacional esta contratando tecnicos de soporte.
+• to avoid an unintended device reset : para evitar un reset del dispositivo (reinicio del dispositivo) no deseado.
+
+• committed citizens can change the world = ciudadanos comprometidos pueden cambiar el mundo.
+• Citizenship = ciudadania.
+• Citizen = ciudadano.
+• mandatory  = obligatorio
+• Thomas Friedman refers to as the “flattening” of the globe, represents a tectonic shift, in the way people view their world and interact within it : Thomas Friedman se refiere como el "aplanamiento" del mundo, representa una tectónica cambio, en la forma de ver el mundo e interactuar dentro de él.
+• It would be difficult to overstate the effects that this new paradigm has wrought in society economically : Sería difícil exagerar los efectos que este nuevo paradigma se ha forjado en la sociedad económica.
+• unlike physical products, information doesn’t operate under the scarcity theory of economics: a diferencia de los productos físicos, la información no opera bajo la teoría de la escasez de la economía.
+• Afford : darse el lujo de ...
+• We took what was a luxury and turned it into a neccesity : Tomamos lo era un lujo y lo convertimos en necesidad.  Henrry Ford
+
+• sustain the satellite constellation : Sostener la Constelacion de Staelites.
+• Unlike : A Diferencia de...los rusos...
+• ever has : siempre ha tenido, siempre ha logrado.
+• that ever has : que lo halogrado. (refiriendose a una tercera persona).
+
+• Or rather(mejor, bastante, mas bien..) video in this case = O mejor dicho video en este caso.
+• So we've been(pasado de estar de ser)  looking this rather interesting = Así que hemos estado viendo esto bastante interesante. (rather<bastante> vs very<muy>)
+• Rather than saying : en lugar de decir...
+• Rather than a separate APK file for each language = en lugar de un archivo APK para cada idioma
+• rather(rader) = mas bien, bastante
+• rather than = en lugar de, en vez de
+
+• never doubts that small group of thoughtful = nunca dudes de un grupo pequeño de ciudadanos concientes y compremetidos, 
+
+• Indeed, it's the only thing that ever has.	De hecho, es la unica cosa que lo han logrado.
+
+
+• Fellows: Becarios
+• Breaking down application boundaries : Rompiendo Los Limites de la Aplicacion
+• leaded to an explosion : CONDUSCO a un explosion de desarrollo...
+• The lack of documentation : La falta de documentación
+• Breaking down application boundaries: Rompiendo los límites de aplicación
+• The currency in use on this island is based around 12 feet tall : La Moneda en uso de esta isla esta basado alrededor de 12 pies de altura de piedras.
+• So why do we bother with them? : entonces Por que Molesraese con ello?
+• As far as using data in the instance is concerned, it might as well not be there:En cuanto a uso de datos en la instancia se refiere, como si no estar ahí
+• The first instance is show "hanging" in space : detenido enganchado en el espacio.
+• We can make a tiny changes to tha program : podemos hacer algunos cambios pequeños en el programa.
+• and so we are going to have to get hang of them, like it o not... :y Asi vamos a dar una mano con ello, como este o no.
+• objects are best regarded as solution to the problem of design. : Los Objetos son la mejor concideracion(desicion), a los problemas de diseño.
+• objects don't add any new behaviours to our programs.: Los Objetos no añaden nuevos comportamientos a nuestros programas.
+• some of these ideas might hurt your head a bit at start : alguna de estas ideas pueden darte un poco de dolor de cabeza al empezar.
+• shipped : embarcado enviado.
+• manufactured : fabricado.
+• quoted : citado a
+• frozen : congelado.
+• overdraft : sobregiro.
+• never gone away : nunca se ha ido.
+• The riddle of the black hole : el enigma delos agujeros negros.
+• behavior : comportamiento
+• any way : De cualquier forma, de otra forma.
+• the greatest discoveries= Los más grandes descubrimientos
+• inner = interior
+• beyond = mas alla
+• boost : empuje
+• constraints  : Limitaciones
+• constraint = restrinccion
+• regards : Saludos
+• regard : considerar
+• regarding the code = con respecto al codigo..
+• regarding = con respecto a...	/  with respect to; concerning 
+• Best regards = atentamente.
+
+• misgovern : gobernar mal
+
+• as defined above = como se define arriba.
+• strongly = fuertemnete
+
+• rocket roaring	: cuando el cohete suena jushjush...
+• TAKE THIS SURVEY FOR A CHANGE TO WIN 500 = TOME ESTE resumen(entrevista), a cambio de ganar $500
+• Widget = artefacto
+• make sense = tiene sentido
+• swindle = estafa
+• deepen  = profundizar
+• rebound = rebote, repercutir
+• layoff = despido
+• graduates = los graduados...
+• earn  = ganar
+• survivor = sobreviviente 
+• Advice on how to apply = Consejos de como aplicar
+• To be granted admission = para ser adminitido.
+• suggest = sugerir
+• Indeed the volume PC market affords = De hecho el volumen de pcs en el emrcado ofrece
+• Moreover = por otra parte, ademas..
+• broad range = amplio rango..
+• enjoys broad software support = gozan(disfruta) de un amplio soporte(apoyo) de software
+• leverage(lavorech)  = aprovechar, 
+• leverage prize = el apalancamiento de precios.
+• People leverage when using the tensorflow ibject detection = las personas aprovechan cuando estan usando el TF Object detection.
+• designers = disenadores
+• design = diseno
+• breadth  = amplitud (de area y no de medida)
+• offerings = ofertas
+• spans = en el buen enetedimiento (extenderse sobre, abarcar, extension)
+• miserly = pequeno, avaro, pobre ( de poco), muy pequeno.
+• high-end XEON = alta tecnologia de XEON, vanguardia.
+• vendors = proveedores
+• committed = comprometidos
+• embedded market guarantee = integrados a la garantia de mercado
+• availability = disponibilidad
+• Despite the = apesar de la
+• despite = A pesar de
+• huge = formidable
+•...hold on, hold on = espere, espere, One Xisteen last change!
+• survey = estudio,inspeccionar, reconocer (como verb)
+• start survey = inicio de encuesta
+• Upon receipt of your payment = Tras la recepción de su pago
+• Alberta on the Road to 2010 = Alberta camino al 2010
+• Bursts = quebrar, interrunpir,
+• get on = si alguien quiere subri a un carro o carreta, el dueno le dira , get it on!, sube!!
+• thats the best you can up with?? = es lo mejor que puede con?
+• I did miss the free beer at 5 o'clock. = me perdi la cervesa gratis de las 5 en punto.
+• What it may be??  = que puede ser?
+• TradeOff : contrapartida
+• Breakthrough in satellite communication technology = es un gran avance en la tecnología de las comunicaciones por satélite.
+• If you are having any trouble accessing your subscription, please contact your technical support = 
+Si usted está teniendo problemas para acceder a su suscripción, por favor póngase en contacto con el soporte técnico.
+• Contact us for advertising and sponsorship Opportunities. = Contactanos para oportunidades de publicidad y patrocinio.
+• sponsorship  = patrocinio
+• advertising  = publicidad
+•Thank you for submitting your request. = Gracias por presentar su solicitud.
+
+
+• email address for reference purposes. = si desea seguir un segurimiento de su solicitud o pedido.  
+•Strange squiggles in a scanning microscope’s images = Garabatos extraños en las imágenes de un microscopio de barrido.
+• but it stayed in the back of my mind =  pero se quedó en el fondo de mi mente.
+• Peace of mind is important. = la tranquilidad es importante.
+•Last June, astronomers  = En junio pasado, los astrónomos
+•were toasting(tostado) each other = estaban celebrando uno con otros.
+•had snared(atrapado) = había atrapado
+•had snared its most elusive(dificil) prize(premio) = habían atrapado su premio más difícil de alcanzar.
+•rekindle = reavivar
+•a long simmering(cocer a fuego lento) debate= un debate candente o siempre latente.
+• long-term = a largo plazo.
+•within the physics community = reavivar un debate siempre latente en la comunidad de la física
+•If someone foolishly fell into a black hole = si alguien cayo tontamente en un agujero negro!
+•will they be crushed = serán aplastados.
+•once the laughing stock of the scientific community = una vez en el hazmerreír de la comunidad científica
+•the discovery of the Holy Grail 
+•The “old-fashioned” serial Product cycle = El viejo estilo de ciclo de produccion
+•Shorten Time for Quality Assurance and Test = Reducir el tiempo de Garantía de Calidad y Prueba.
+•Shorten Time for System Integration = Reducir el tiempo para el Sistema de Integración.
+•Shorten Software Development Time = Shorten Time for System Integration.
+•Shorten Hardware Development Time = Acortar el Tiempo de Desarrollo de Hardware
+•Generic Methods to Shorten Time-To-Market 
+•Manufacturing says “We can not build it this way!” = Fabricación dice "No podemos construir de esta manera!"
+
+
+•Lawfully admitted residents are those who can provide documented proof of their residence in the country for a period of at least one year
+Residentes legalmente admitidos son los que pueden aportar pruebas documentadas de su residencia en el país por un período de al menos un año
+
+•Moreover, the x86 architecture enjoys broad software support that embedded system designers can leverage to accelerate design cycles
+POr otra parte, los arquitetos del x86 disfrutan de un amplio soporte de software que los disenadores de systemas embebidos pueden aprovechar
+o apoyar a ascelerar  los ciclos de diseno
+
+•The breadth of offerings spans the range from power-miserly designs to the high-end Xeon architecture originally developed for servers
+La Amplitud de ofertas se exteinde al rango de los miseros disenos de potencia a la arquitectura de vanguardia(high-end) de XEON, originalmente desarrolados para servidores.
+
+
+
+• Esta controversia podria ser validada por observación de Haldane J.B.S. ,que el universo es "no sólo más extraño de lo que Supongamos, es más extraño de lo que podemos suponer".
+Esta controversia deliciosa, que encanta a los físicos teóricos, pero perturba la mera mente de los mortales, es el tema de mi reciente libro, Hiperespacio.
+
+• You've reached(alcanzado) Canada's job portal for high tech jobs = Has llegado portal de empleo de Canadá para empleos en alta tecnología.
+This include unsponsored jobs from recruiting companies = esto incluye sin patrocinadores de trabajo, de comapnias de reclutamiento(contratacion, empresas de seleccion,etc) de trabajo.
+Alerts are e-mailed to you whenever certain new company information is posted to this site = Las alertas son enviadas por correo electrónico a usted cada vez que cierta informacion de una nueva comapnia es colocado en este sitio web
+
+• Typical challenges in today's
+
+• Embedded Market = Desafíos típicos de hoy en día Incrustado Mercado.
+
+
+
+• Today, technology develops so fast, that •Self-learning or learning-by-doing is inefficient and eats up too much engineering time 
+Hoy en día, la tecnología se desarrolla tan rápido, que • Auto-aprendizaje o el aprendizaje en la práctica es ineficaz y consume demasiado tiempo de ingeniería
+
+• Having a good tool does not necessarily mean people know how to use it…
+Tener una buena herramienta no significa necesariamente que la gente sepa cómo usarlo ...
+
+• Embedded Applications differ a lot from each other and it’s almost impossible to generalize and specify which of these four sections takes up how much percent of the total development time:
+Las aplicaciones incorporadas difieren mucho unos de otros y es casi imposible generalizar y especificar cuál de estas cuatro secciones toma por ciento de la cantidad de tiempo total de desarrollo
+
+• Hardware development time is a major factor for Embedded Systems Designs with high volume 
+El tiempo de desarrollo de hardware es un factor importante para diseños integrados con sistemas de alto volumen de
+
+
+• Software Development Time Challenges = desafio en el tiempo de desarrollo.
+
+• is the same regardless of your operating system = es lo mismo sin considerar su sistema operativo.
+
+• The MOTODEV Studio for Android installation process depends upon your underlying operating system.
+El Proceso de instalacion de "MOTODEV Studio" para Android depende de su sistema Operativo subyacente.
+
+• underlying problems must be addressed = los problemas subyacentes deben abordarse.
+
+
+
+• grados Academicos:
+High School Diploma  $249.00 10      
+Associate Degree  $349.00  10      
+Bachelor's Degree  $449.00 10 
+PostGraduate study     
+Master's Degree  $479.00  10      
+Doctorate Degree  $549.00 10     
+
+• Now get Days in the choosen month and the day of the week it starts on.
+Ahora toma los días del mes elegido y el día de la semana que comienza.
+
+• Now we've got the date. 
+Ahora que tenemos la fecha. 
+
+• I appreciate your comment on my work very much!
+• Thank you. ..... Thanks very much  for compliment ... best greetings! ;-)
+• ... wow I really don't know what to say it's really nice so  beautiful work I love the way you do it ...
+• Hey Thanks for all the nice comments, always nice an appreciated (Comentarios agradables)
+• ..... Thank you so much for your kind response to "Passing Through"
+• I just saw your art and I love them really  !
+• Regards from Cicily in the north of Sweden.
+• I really appreciate you, Your helpful, giving ways,
+• .. Thank you so much for all you do;
+• I really appreciate everything you've done to help me Spanish-English
+
+• Antennas give me a headache = La Antenna me da un Dolor de Cabezas
+• The batch (El lote)can be aborted at any time by pressing Control + Break (we recommend that you do not use Cancel on the Print dialog since this only aborts the current document
+The batch.- A quantity or consignment of goods produced at one time.(a batch of cookies)

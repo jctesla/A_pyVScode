@@ -1,0 +1,30 @@
+$ C:/Users/Miclab/AppData/Local/Programs/Python/Python38-32/
+python.exe -m pip install -U pylint --user
+
+$clear
+
+NumPy.-
+es una libreria q permite realizar operaciones matematicas y logicas
+en matrices.
+
+ANACONDA es una distribucionb grtuita de Python analitic,
+que incluye SymPy, Matplotlib, IPython, NumPy, 
+
+Matplotlib.-
+es una libreria q permite crear visualizaciones estaticas, dinamicas e
+interactivas, en phyton.
+
+Sympy.-
+requiere que se instale 1ro la libreria "mpmath",  
+o el metodo de instalacion recomendado puede ser atravez de ANACONDA,
+q ya incluye el "mpmath". sive p calculos matematicos complejos como
+integracion, trigonometria.
+
+PyPi.- setup.py and wheell.
+es una de las herramientas de Python p los desarrolladores, para distribucion y
+empaquetado de proyectos,
+Si quiere crear una libreria, biblioteca, es la manera de empaquetar Python
+para el publico no tecnico, o facil de produccion.
+
+
+

@@ -1,0 +1,15 @@
+//GET Http://localhost:3000
+
+
+//GET Http://localhost:3000/products/3
+
+//GET Http://localhost:3000/productos/3
+
+
+GET Https://www.google.com/
+
+
+//GET http://data.pr4e.org/romeo.txt
+
+
+

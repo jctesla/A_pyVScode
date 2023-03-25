@@ -1,0 +1,31 @@
+# despues de (:) va 1 space + 1 enter
+mumero: 16
+letras: 'Hola Mundo'
+# ifual seria :
+texto: Hola Mundo
+# o igual seria asi:
+texto2: |-
+  Hola y espero que calnces tus Objetivos
+
+# puedo generar una Lista, 
+# luego de los (:) un enter y la sgnt linea 1 spc guion spc
+lista1:
+ - 'Python'
+ - 'NodeJs'
+ - 'Andorid'
+
+# igual seria
+lista2: ['Python', 'Nodejs', 'Androids']
+
+# En una lista podemos tener otra lista:
+lista2: [['Python', 'NodeJs', 'Android'], ['gatos','monos','perros']]
+
+# Objetos:
+objeto01:
+  numero: 10                # este elemento del Bj seprado con 2 espacios
+  text: 'hola objeto'
+  objeto02:                 # la lista debajo (-) separado con 4 espacios = 2 + 2
+    - 12
+    - 13
+    - -13
+
