@@ -7,4 +7,4 @@ for line in fl:
     if linecount > 10: break  # let's not print too many lines to the console
 
 fl.close()                    # close the file 
-print("FIN")                  # FIN de test
+print("FIN")                  # FIN de test en barch main
