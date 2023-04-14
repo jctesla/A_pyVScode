@@ -14,7 +14,7 @@ fl = open(filename, 'r')
 f = True
 while fl and f:
    f =  fl.readline()
-   print(f)
+   print(fl.tell()," - ", f)            # return the position of character in file, 
 
 #--------------------------------
 fl = open(filename, 'r') 
