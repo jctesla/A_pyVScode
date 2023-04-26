@@ -40,7 +40,7 @@ pnts = ""
 while(t.is_alive()):
   pnts += "."
   print( pnts, end = '\r' )
-  time.sleep(1.8)                       # si el video demora mucho en bajarlo debemos aumentar el time = 1.4
+  time.sleep(2.2)                       # si el video demora mucho en bajarlo debemos aumentar el time = 1.4
 
     
 
