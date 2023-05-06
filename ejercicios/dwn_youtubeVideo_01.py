@@ -4,27 +4,29 @@
 # es decir esta libreria no esta totalmente depurada de errores.ESTA VERSION FUNDIONA BIEN.
 from pytube import YouTube
 
-saveMp4Path = "G:\$LIBROS VARIOS/"
+saveMp4Path = "G:/$LIBROS VARIOS/"
 
 youtubelink=[
-  "https://www.youtube.com/watch?v=bEKjCDDUPaU",
-  "https://www.youtube.com/watch?v=MlK6SIjcjE8&t=10s"
+  "https://www.youtube.com/watch?v=B2h8FohnwUs&t=370s",
+  "https://www.youtube.com/watch?v=AoudEm89Vss&t=303s"
 ]
 
 for i in youtubelink:
     yt = YouTube(i)
-    print("title :", yt.title)
+    #print("title :", yt.title)
     print("captions : ", yt.captions)
-    icon = yt.thumbnail_url
+    print("icon : ", yt.thumbnail_url)
     print("Streams format :", yt.publish_date)
     
     # mp4File =  yt.streams.filter(progressive=True, file_extension='mp4')
     # yt.streams.get_highest_resolution()	
     # get the video with the extension and
     # resolution passed in the get() function
-    d_video = yt.streams.filter(progressive=True).order_by('resolution').desc().first()
+    # d_video = yt.streams.filter(progressive=True).order_by('resolution').desc().first()
+    stream = yt.streams.get_highest_resolution()
     try:   
-      d_video.download(saveMp4Path)
+      # stream.download(saveMp4Path)          # d_video
+      stream.download()          # d_video
     except:
       print("Some Error!")
    
