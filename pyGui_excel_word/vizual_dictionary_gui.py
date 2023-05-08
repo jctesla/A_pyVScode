@@ -1,4 +1,5 @@
 # https://pypi.org/project/traitsui/
+# https://stackoverflow.com/questions/15023333/simple-tool-library-to-visualize-huge-python-dict
 # 1º (base) D:\phytonSpace\miBasic\A_pyVSCode\pyGui_excel_word>conda install traits
 # 2º (base) D:\phytonSpace\miBasic\A_pyVSCode\pyGui_excel_word>conda install traitsui
 #  
