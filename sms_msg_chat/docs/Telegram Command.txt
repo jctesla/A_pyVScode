@@ -1,0 +1,41 @@
+https://api.telegram.org/bot6249959391:AAGko3-WyPRN6O1FYrRiRloM3ABULR3POaE/getUpdates
+{
+"ok":true,
+"result":[
+	    {
+	"update_id":127682907,
+	"message":{
+		"message_id":4,
+		"from":{"id":1360215944,"is_bot":false,"first_name":"jc","last_name":"dergan f.","username":"J_Carlos_Dergan"},
+		"chat":{"id":-884531886,"title":"Test_miTelegram","type":"group","all_members_are_administrators":true},
+		"date":1683332908,
+		"text":"/my_id @user_jc_bot",
+		"entities":[ {"offset":0,"length":6,"type":"bot_command"}, {"offset":7,"length":12,"type":"mention"}]
+		}
+	    }
+         ]
+}
+
+
+
+https://
+api.telegram.org/bot6249959391:AAGko3-WyPRN6O1FYrRiRloM3ABULR3POaE/sendMessage?chat_id=-884531886&text=%22Este%20es%201er%20Mensaje%20q%20envio%20al%20Telegram%E2%80%9D
+
+{
+"ok":true,
+"result":{
+	    "message_id":5,
+	    "from":{"id":6249959391,
+	    "is_bot":true,
+	    "first_name":"androidBot",
+	    "username":"user_jc_bot"},
+    "chat":{
+		"id":-884531886,
+		"title":"Test_miTelegram",
+		"type":"group",
+		"all_members_are_administrators":true
+    },
+	    "date":1683335007,
+	    "text":"\"Este es 1er Mensaje q envio al Telegram\u201d"
+	  }
+}
