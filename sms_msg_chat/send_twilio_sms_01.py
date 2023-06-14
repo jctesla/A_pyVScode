@@ -1,5 +1,6 @@
 # Download the helper library from https://www.twilio.com/docs/python/install
 # CODEs : https://github.com/twilio/twilio-python
+# desde la PAGINA de Twilio: https://console.twilio.com/us1/develop/sms/try-it-out/send-an-sms
 import os
 from twilio.rest import Client
 
