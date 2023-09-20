@@ -6,7 +6,7 @@ def translate_english_to_spanish(word):
     return translated_word
 
 # Replace 'hello' with the word you want to translate
-word_to_translate = 'hello'
+word_to_translate = 'hello, this is my last Sync to changes all about Py'
 translated_word = translate_english_to_spanish(word_to_translate)
 
 print(f"{word_to_translate} in Spanish is: {translated_word}")
