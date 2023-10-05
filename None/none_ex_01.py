@@ -28,3 +28,5 @@ print('4. ', p == g)         # True   because they are the same actual object
 p = None                     # is a singleton
 q = None
 print('5. ',p is q)          # True   because they are both pointing to the same "None"
+
+

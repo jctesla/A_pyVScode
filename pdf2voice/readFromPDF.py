@@ -1,11 +1,11 @@
-# Este programa convierte un file de PDF q le indiquemos a un audiobook.
+# Este programa lee un file de PDF q le indiquemos y los separa en paginas para traducirlo y luego jalar la voz.
 # 100 import pyttsx3
 import pdfplumber
 import PyPDF2
 import time
 
 #obtenemos el nombre del file y la ruta del file PDF.
-file = 'TipsIngles_2022_for_audio_espanol.pdf'  #'ejemplo_tts.pdf'
+file = 'page 6 to 8.pdf'    #'TipsIngles_2022_for_audio_espanol.pdf'  #'ejemplo_tts.pdf'
 
 pdfFileObj = open(file, 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -21,15 +21,21 @@ with pdfplumber.open(file) as pdf:
         
         lineas = text.split('\n')
         print(f'Lineas = {len(lineas)}\n')                     # imprimo l q se esta produciendo en audio
-        cmip=1
+        cmip=0
         for idx,ln in enumerate(lineas):
-          mip = ln.find('mip ',0)
-          if (mip !=-1):
-            digit = 'mip'+ str(cmip) + ': '
-            ln = ln.replace('mip', digit)
-            cmip +=1
-          #print(f'Linea{str(idx+1)} : {ln}')
-          print(f'{ln}')
+          if len(ln) > 1:
+            mip = ln.find('mip ',0)
+            if (mip !=-1):
+              cmip +=1
+              digit = 'mip'+ str(cmip) + ': '
+              ln = ln.replace('mip', digit)
+              
+            #verificamos si la linea de frase termina en punto.
+            lnn = ln.rstrip(' ')
+            if lnn[-1] != '.':
+              lnn = lnn + "."
+            
+            print(f'{lnn}')
           
 
         
