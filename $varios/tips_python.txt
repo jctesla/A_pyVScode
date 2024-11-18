@@ -1,0 +1,17 @@
+°Decimal instances can be constructed from integers, strings, floats, or tuples.
+>>> from decimal import *
+>>> Decimal(10/3)
+Decimal('3.333333333333333481363069950020872056484222412109375')
+
+--------------------------------------
+° Podemos convertir un string a numero:
+>>> s = '23.45678'
+>>> int(float(s))
+23
+
+>>> int(Decimal(s))
+23
+
+>>> int(s.split('.')[0])
+23
+------------------------------------------
